@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | America Teve HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/1.m3u8
 
