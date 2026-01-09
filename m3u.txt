@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | America Teve HD
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547756318331.png" group-title="Provider", Latino | America Teve HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Caracol HD
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1732153061463.png" group-title="Provider", Latino | Caracol HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | A&E HD
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544736864287.png" group-title="Provider", Latino | A&E HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Animal Planet HD
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479141480.png" group-title="Provider", Latino | Animal Planet HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Estrella TV HD
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1578001597258.png" group-title="Provider", Latino | Estrella TV HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/5.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Caracol HD
