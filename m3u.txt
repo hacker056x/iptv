@@ -33,7 +33,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/14.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Mega TV
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/15.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine", CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Cinemax_1997.svg" group-title="Cine", CINEMAX
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Discovery Theater HD
