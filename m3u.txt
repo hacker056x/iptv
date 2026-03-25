@@ -24,28 +24,28 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10.m3u8
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/01/galavision-new-logo-2024.jpg" group-title="Entretenimiento", Galavision
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/11.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documental", Discovery H&H
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/864869479074889728/tSJmM90d_400x400.jpg" group-title="Documental", Discovery H&H
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documental", Discovery Science
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/A7SISYF1EwY/maxresdefault.jpg" group-title="Documental", Discovery Science
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/14.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Mega TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsswqpZGFTpxIb-DqMiRld77GcGOH4QU--g&s" group-title="Entretenimiento", Mega TV
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/15.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Cinemax_1997.svg" group-title="Cine", CINEMAX
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Discovery Theater HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mQxMEB5.png" group-title="Documental", Discovery Theater
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/17.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | DE PELICULA HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png/revision/latest?cb=20191216004334&path-prefix=es" group-title="Cine", DE PELICULA
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/18.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Discovery TLC HD
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mcuKfl7pm4YNVpQp3VHSRekP1GlvyKpmkzySjP8YMasg=s900-c-k-c0x00ffffff-no-rj" group-title="Documental", Discovery TLC
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/19.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | STAR CHANNEL HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-HfSxorCeBTQY7tZP4Sih0J19BtsybFARw&s" group-title="Cine", STAR CHANNEL
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/20.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Pasiones HD
