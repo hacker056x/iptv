@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547756318331.png" group-title="Entretenimiento", America Teve
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/1.m3u8
+https://live.gideo.video/americateve2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1732153061463.png" group-title="Entretenimiento", Caracol
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/2.m3u8
