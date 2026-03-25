@@ -21,7 +21,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/9.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7QR4V4FG_2CDw7n_0Dqd7wz8ZZuiwXBX-bg&s" group-title="Cine", CINECANAL
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Galavision HD
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/01/galavision-new-logo-2024.jpg" group-title="Entretenimiento", Galavision
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/11.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documental", Discovery H&H
