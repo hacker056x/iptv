@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547756318331.png" group-title="Entretenimiento", America Teve
 https://live.gideo.video/americateve2/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="DEPORTES", Espn
+http://tv.proyectox.vip:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9521.m3u8
+
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1732153061463.png" group-title="Entretenimiento", Caracol
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/2.m3u8
 
