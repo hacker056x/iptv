@@ -9,6 +9,10 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/2.m3u8
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544736864287.png" group-title="Cine", A&E
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
 
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Entretenimiento" user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",America TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479141480.png" group-title="Documental", Animal Planet
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
 
