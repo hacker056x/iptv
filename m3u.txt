@@ -1041,22 +1041,22 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/733.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", MX | Canal De Las Estrellas
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/759.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", XXX | Adult 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX", XXX | Adult 2
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/765.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", XXX | Adult 6
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX", XXX | Adult 6
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/769.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", XXX | Adult 7
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX", XXX | Adult 7
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/770.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", XXX | Adult 8
+#EXTINF:-1 tvg-logo="https://image2.gtflixtv.com/79b0f9f5939d381598c53f35eb2badf8d775dad2/1/1998/696/3/18.jpg" group-title="XXX", PornBox
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/771.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", XXX | Adult 9
+#EXTINF:-1 tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="XXX", MyCamTv
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/772.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", XXX | Adult 10
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6775700000ee85c9a39c9fcdcee5920c251bae" group-title="XXX", Adultime
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/773.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | TUDN 2 HD
