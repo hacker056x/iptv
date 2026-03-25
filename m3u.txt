@@ -1041,13 +1041,13 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/733.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", MX | Canal De Las Estrellas
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/759.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX", XXX | Adult 2
+#EXTINF:-1 tvg-logo="https://cdn-images.dzcdn.net/images/cover/4117eda299cf8c3022c0a124bdc8fd8a/1900x1900-000000-80-0-0.jpg" group-title="XXX", Sex
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/765.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX", XXX | Adult 6
+#EXTINF:-1 tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="XXX", MyCamTv
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/769.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX", XXX | Adult 7
+#EXTINF:-1 tvg-logo="https://www.dorcelvision.com/images/coverxs1200/1326121.jpg" group-title="XXX", Vixen
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/770.m3u8
 
 #EXTINF:-1 tvg-logo="https://image2.gtflixtv.com/79b0f9f5939d381598c53f35eb2badf8d775dad2/1/1998/696/3/18.jpg" group-title="XXX", PornBox
