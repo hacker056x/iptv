@@ -142,28 +142,28 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/51.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/250px-CNN_International_logo.svg.png" group-title="NOTICIAS", CNN
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/53.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1585279885510.png" group-title="Cine", STUDIO UNIVERSAL
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | STARZ KIDS & FAMILY
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/ln283xzo/production/284eaf713d97e62ee730ce6544681428f3787595-1920x1080.jpg" group-title="NIÑOS", STARZ KIDS & FAMILY
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/55.m3u8
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="NOVELAS", Telemundo New York
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/57.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UkfqoCle5yw/maxresdefault.jpg" group-title="Cine", UNIVERSAL TV
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/59.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Bandamax
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeAFH2XL2pMQAl7Aq7A3huckYxJV0QUGeAAQ&s" group-title="MUSICAL", Bandamax
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/60.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | STARZ ENCORE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/p1TVlYuHeDQ/maxresdefault.jpg" group-title="Cine", STARZ ENCORE
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/61.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | WARNER
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/E55ABA02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1080" group-title="Entretenimiento", WARNER TV
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/66.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | ANTENA 3
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544827285405.png" group-title="Entretenimiento", ANTENA 3
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/68.m3u8
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="NOVELAS", Telemundo San Diego
@@ -178,43 +178,43 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/74.m3u8
 #EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="NOVELAS", Telemundo Phoenix
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/77.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683481386303.png" group-title="Entretenimiento", FOOD NETWORK
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/78.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png" group-title="NIÑOS", Cartoon Network
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/80.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | EL Gourmet
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1548288211566.png" group-title="Entretenimiento", EL Gourmet
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/81.m3u8
 
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1545261045163.png" group-title="NIÑOS", Discovery Kids
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/82.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | LIFETIME
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544829319139.png" group-title="Entretenimiento", LIFETIME
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/84.m3u8
 
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683484349138.png" group-title="NIÑOS", Disney JR
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/85.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | MTV
+#EXTINF:-1 tvg-logo="https://cdn.aarp.net/content/dam/aarp/entertainment/music/2021/06/1140-mtv-anniversary-promo.jpg" group-title="MUSICAL", MTV
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/86.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | NBC UNIVERSO
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683481748506.png" group-title="Entretenimiento", NBC UNIVERSO
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/88.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | TNT Novelas
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1673379255953117184/C7ouLzGO_400x400.jpg" group-title="NOVELAS", TNT Novelas
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/89.m3u8
 
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683484577196.png" group-title="NIÑOS", Nick JR
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/90.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | TLNOVELAS
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544829823557.jpg" group-title="NOVELAS", TLNOVELAS
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/91.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | TNT
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683485384297.png" group-title="Cine", TNT
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/93.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | TNT SERIES
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1544829924171.png" group-title="Cine", TNT SERIES
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/95.m3u8
 
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683484336331.png" group-title="NIÑOS", Disney Channel
@@ -286,7 +286,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/148.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Unimas Miami
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/149.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Univision
+#EXTINF:-1 tvg-logo="https://resources.diariolibre.com/images/binrepository/univision-logo_15471959_20201230172501-focus-0-0-608-342.jpg" group-title="Provider", Univision
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/152.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Univision Dallas
@@ -700,31 +700,31 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/359.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Univision Philadelphia
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/360.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Azteca Cinema
+#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/57895_750.jpg" group-title="Entretenimiento", TV Azteca
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/361.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Golden Premier
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="Cine", Golden Premier
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/362.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", HBO MUNDI
+#EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-mundi1.png" group-title="Cine", HBO MUNDI
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Universal Cinema
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Cine", Universal Cinema
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/364.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Universal Crime
+#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="Documental", Universal Crime
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/365.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | UNIVERSAL PREMIERE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Universal_Premiere_2021.png/330px-Universal_Premiere_2021.png" group-title="Cine", UNIVERSAL PREMIERE
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/366.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | CAZA Y PEZCA
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/367.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | HISTORY 2
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pg8xlZzbLXs/hqdefault.jpg" group-title="Documental", HISTORY 2
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/368.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", USA | HISTORY 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/H2.png/revision/latest?cb=20190701021604&path-prefix=es" group-title="Documental", HISTORY 2 USA
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/369.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | GLITZ
@@ -736,7 +736,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/371.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | UNIVERSAL REALITY
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/372.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | TCM
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706317625502.png" group-title="Cine", TCM
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/373.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=y44drrjcqtxa18g3arxjz58ge_image-header_pEs_1723117975000&quality=70" group-title="DEPORTES", DAZN F1
