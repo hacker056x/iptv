@@ -181,19 +181,19 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/77.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | FOOD NETWORK
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/78.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Cartoon Network
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png" group-title="NIÑOS", Cartoon Network
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/80.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | EL Gourmet
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/81.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Discovery Kids
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1545261045163.png" group-title="NIÑOS", Discovery Kids
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/82.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | LIFETIME
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/84.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Disney JR
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683484349138.png" group-title="NIÑOS", Disney JR
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/85.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | MTV
@@ -205,7 +205,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/88.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | TNT Novelas
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/89.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Nick JR
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683484577196.png" group-title="NIÑOS", Nick JR
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/90.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | TLNOVELAS
@@ -217,7 +217,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/93.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | TNT SERIES
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/95.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | Disney Channel
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683484336331.png" group-title="NIÑOS", Disney Channel
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/96.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | TruTV
@@ -454,10 +454,10 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/217.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", USA | YES NETWORK
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/218.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", USA | ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1683479141480.png" group-title="Documental", ANIMAL PLANET USA
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/219.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", USA | BBC AMERICA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider",  | BBC AMERICA
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/221.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", USA | DISCOVERY CHANNEL
@@ -613,7 +613,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/286.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", USA | BOOMERANG
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/290.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", USA | CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://logoeps.com/wp-content/uploads/2013/01/cartoon-network-logo-vector.png" group-title="NIÑOS" CARTOON NETWORK
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/291.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", USA | DISNEY CHANNEL
@@ -757,7 +757,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", USA | ABC NEWS
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/382.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", Latino | ONCE NINOS
+#EXTINF:-1 tvg-logo="https://posters.hyloft.online/1706317314514.png" group-title="NIÑOS", ONCE NINOS
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/385.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Provider", USA | REELZ CHANNEL
