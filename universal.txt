@@ -24,3 +24,53 @@ https://unipluslivedash.akamaized.net/universalcomedyt0/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"25261b6f75ce58bc9be5e25b438e2af7":"dd8f7f46cb39d619f63a1b01ecdd0b78","e7e60190bf265d0db1090b8ed7c06c3a":"ed2a63ff6b077418967882439a2ab12a","5d494197700f5d238b86c9ef2c40cb1a":"171a6b6ba3b7acd781085c03036572e7"}
 #EXTINF:-1 tvg-logo="https://cdn.one.accedo.tv/files/6583214229fbc80018bdc808" group-title="Universal+",Reality
 https://unipluslivedash.akamaized.net/universalrealityt0/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" group-title="", Canal 5
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="", Canal 6
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96ce45fa9e1b72ef49b8f5784b21a001:bf9797535e629804cf48f8b6530582c1
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MULTIMEDIOS-RDF-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rm2FnJbR/aprende-mas.png" group-title="", INGENIO TV
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba58fdfd114d74e2a22225a27aaf144f:7c622cc288ca7d1f8fb7496135b67e09
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/INGENIO-TV-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/MX_Nuestro_Cine_2022~.png/revision/latest/scale-to-width-down/200?cb=20250512015312" group-title="", MX NUESTRO CINE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7399e4ec95e1fd86b61da263476c34:06c2a7b4d56dabbf050d51f451dd72ba
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MX-NUESTRO-CINE-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://www.capital21.cdmx.gob.mx/logooficial.png" group-title="", Capital 21
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adb931e6afdba4136e5ecb88eb7aa868:8cc35aab173435df66b868d85e763dea
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CAPITAL-21-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/5oiji4u0v8be/3saK5HB9O4BEQC7kLOOuUW/727886854762132674493221025b851b/izzi-logo-canal-tv-tvmigrante.webp" group-title="", TV MIGRANTE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c3b5f4a88fad6b32a248be52437c842:b6b5fab0ba30b3d191169738d308512c
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/TV-MIGRANTE-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://maussantelevision.com/wp-content/uploads/2023/08/logomauss-96x96-1.png" group-title="", MAUSSAN TV
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=445987029f68a15d72f749dc6954da1e:b0b4c0681b371950146dbd03ce63b2d7
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://quierolista.com/nosotros/logo.png" group-title="", QUIERO TV
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86e93bd99b1b0550ca60a1516f0c2ded:06835565e588e72d6c60512dff9e24e6
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/QUIERO-TV-SD/default.mpd
+
+
