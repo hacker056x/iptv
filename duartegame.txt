@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,latina
-https://embed.ksdjugfsddeports.com/embed/latina.html
 #EXTINF:-1,Tele Fe
 http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/telefe_720.m3u8
 #EXTINF:-1,Corazon
@@ -43,6 +41,8 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1,RTV
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1,latina
+https://embed.ksdjugfsddeports.com/embed/latina.html
 #EXTINF:-1,Once mx
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1,TVP Obregon
