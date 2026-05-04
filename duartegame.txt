@@ -5,11 +5,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/R5CWCQc-bgtRO4YCLH0UEsfqeFSgoYhRoZm-lF-GRE_n5tZvvAqIymFPHfelJNS5yQ", Canal 5 ar
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1,tvg-logo="" Canal 7 Jujuy ar
+#EXTINF:-1,tvg-logo="https://yt3.googleusercontent.com/HmN_TtDcna8dWfgV6lz6k1Q7B02t0LuU8IQhooBVRN1uq9YE12ZbS_j7ycGb-7G4LkZtypUA=s900-c-k-c0x00ffffff-no-rj", Canal 7 Jujuy ar
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1,tvg-logo="" Ciudad ar
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png", Ciudad ar
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1,tvg-logo="" AD40 mx
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/hYqQ_-tzymQ7F8qbrLLRbdR_fHuS0nqRUr8Cm-oCok2noCRJGZVdc4brT1C2mdIVCdPGeOxTI2ZQEfZfSBdm5bw", AD40 mx
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,tvg-logo="" Azteca IN mx
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
