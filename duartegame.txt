@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/thumbnail.jpg" Corazon
+#EXTINF:-1,tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/thumbnail.jpg", Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
-#EXTINF:-1,tvg-logo="https://i.imgur.com/mSn7ACs.png" 5TV ar
+#EXTINF:-1,tvg-logo="https://i.imgur.com/mSn7ACs.png", 5TV ar
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1,tvg-logo="" Canal 5 ar
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/R5CWCQc-bgtRO4YCLH0UEsfqeFSgoYhRoZm-lF-GRE_n5tZvvAqIymFPHfelJNS5yQ", Canal 5 ar
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1,tvg-logo="" Canal 7 Jujuy ar
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
