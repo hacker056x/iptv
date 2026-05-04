@@ -1,34 +1,18 @@
 #EXTM3U
-#EXTINF:-1,Tele Fe
-http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/telefe_720.m3u8
 #EXTINF:-1,Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
-#EXTINF:-1,TN
-http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
-#EXTINF:-1,13 Max ar
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1,5TV ar
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1,América ar
-http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/americatv_540.m3u8
-#EXTINF:-1,Canal 7 ar
-http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/canal7mza_480.m3u8
-#EXTINF:-1,Music Top
-http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/musictop.playlist.m3u8
 #EXTINF:-1,Canal 5 ar
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1,Canal 7 Jujuy ar
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1,Ciudad ar
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1,Cordova ar
-http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/cordobatelefe.playlist.m3u8
 #EXTINF:-1,AD40 mx
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,Azteca IN mx
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1,Canal10 mx
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,Canal6 mx
 https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/playlist.m3u8
 #EXTINF:-1,Estrella NW mx
@@ -43,8 +27,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1,xxx
 https://embed.ksdjugfsddeports.com/embed/latina.html
-#EXTINF:-1,Once mx
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1,TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1,TVP Mazatlán
@@ -65,8 +47,6 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1,SIPSE mx
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:-1,504TV hn
-http://190.104.226.30/Live/154e36c4c526fb8fbb95cef73a37bcaf/CNNesp.playlist.m3u8
 #EXTINF:-1,El televisión
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
 #EXTINF:-1,Alsacias hn
