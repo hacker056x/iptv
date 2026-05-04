@@ -11,23 +11,23 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/hYqQ_-tzymQ7F8qbrLLRbdR_fHuS0nqRUr8Cm-oCok2noCRJGZVdc4brT1C2mdIVCdPGeOxTI2ZQEfZfSBdm5bw", AD40 mx
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1,tvg-logo="" Azteca IN mx
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGdXUCpPtfeA3NE4wnortfzYw5HZvmC7nxxw&s" ,Azteca IN mx
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1,tvg-logo="" Canal6 mx
+#EXTINF:-1,tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/featuredImage.jpg" ,Canal6 mx
 https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/playlist.m3u8
-#EXTINF:-1,tvg-logo="" Estrella NW mx
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXnIh_h97VB177myK44d4nv9AbbMoj4LKpQ&s" ,Estrella NW mx
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-logo="" Estrella mx
+#EXTINF:-1,tvg-logo="https://yt3.googleusercontent.com/fdo57PnjxxWE0yQb5DFROoXfjYaIkQSQLXyZL5E9_dURm_uvfmqKS7HW33uzMT82AKQFsi90tCQ=s900-c-k-c0x00ffffff-no-rj" ,Estrella mx
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-logo="" ITV deportes
+#EXTINF:-1,tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/thumbnail.jpg" ,ITV deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1,tvg-logo="" m2o
+#EXTINF:-1,tvg-logo="https://cdn.gelestatic.it/m2o/sites/2/2022/05/M2O-TV-e1654012974541-1200x630.png" ,m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1,tvg-logo="" RTV
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
-#EXTINF:-1,xxx
+#EXTINF:-1,tvg-logo="", xxx
 https://embed.ksdjugfsddeports.com/embed/latina.html
-#EXTINF:-1,TVP Obregon
+#EXTINF:-1,tvg-logo="", TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1,TVP Mazatlán
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
