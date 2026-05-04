@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1,Corazon
+#EXTINF:-1,tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/thumbnail.jpg" Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
-#EXTINF:-1,5TV ar
+#EXTINF:-1,tvg-logo="https://i.imgur.com/mSn7ACs.png" 5TV ar
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1,Canal 5 ar
+#EXTINF:-1,tvg-logo="" Canal 5 ar
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1,Canal 7 Jujuy ar
+#EXTINF:-1,tvg-logo="" Canal 7 Jujuy ar
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1,Ciudad ar
+#EXTINF:-1,tvg-logo="" Ciudad ar
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1,AD40 mx
+#EXTINF:-1,tvg-logo="" AD40 mx
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1,Azteca IN mx
+#EXTINF:-1,tvg-logo="" Azteca IN mx
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1,Canal6 mx
+#EXTINF:-1,tvg-logo="" Canal6 mx
 https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/playlist.m3u8
-#EXTINF:-1,Estrella NW mx
+#EXTINF:-1,tvg-logo="" Estrella NW mx
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1,Estrella mx
+#EXTINF:-1,tvg-logo="" Estrella mx
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1,ITV deportes
+#EXTINF:-1,tvg-logo="" ITV deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1,m2o
+#EXTINF:-1,tvg-logo="" m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1,RTV
+#EXTINF:-1,tvg-logo="" RTV
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1,xxx
 https://embed.ksdjugfsddeports.com/embed/latina.html
