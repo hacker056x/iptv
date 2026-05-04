@@ -77,8 +77,6 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1,Cadena Élite Es
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1,Clantv Inter
-https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 #EXTINF:-1,COSMOTV es
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1,Distritotv ES
@@ -93,8 +91,6 @@ http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1,CULTURAL
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1,Canal doce
-http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/eldoce.playlist.m3u8
 #EXTINF:-1,EXITOSA
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1,TVU
