@@ -1,1 +1,184 @@
-aqui las pelicula
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/u0FLlb0vKQLvKmiGE6nyhHODFWH.jpg" group-title="Peliculas", Mi querida señorita
+https://peliculas.hyloft.online/Mi%20querida%20se%C3%B1orita%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/7QXpK9JmwUHFOjl8RQVdMUOg1YA.jpg" group-title="Peliculas", Sin hijos
+https://peliculas.hyloft.online/Sin%20hijos%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/d1TupF3vMdQ6BhnADkFiNf0ZBOo.jpg" group-title="Peliculas", Sangre asesina
+https://peliculas.hyloft.online/Sangre%20asesina%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/r7AKQ0OB69JOPskeTWL3U206ehY.jpg" group-title="Peliculas", Faces of Death
+https://movies.hyloft.online/Faces%20of%20Death%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg" group-title="Peliculas", You, Me & Tuscany
+https://movies.hyloft.online/You%2C%20Me%20%26%20Tuscany%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/ppXYWZdv0qkr9aIRMLjtJPXDDon.jpg" group-title="Peliculas", The General's Daughter
+https://peliculas.hyloft.online/The%20General%27s%20Daughter%20%281999%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/pqVFdQDe0wbZRKg6GDyx3ghYXag.jpg" group-title="Peliculas", The Whole Nine Yards
+https://peliculas.hyloft.online/The%20Whole%20Nine%20Yards%20%282000%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/xq41fcgtkJgorfMPNseNY9lZ25i.jpg" group-title="Peliculas", Life
+https://peliculas.hyloft.online/Life%20%282015%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/vkr2KGu10vCHbK1SM5q2AtWA4TM.jpg" group-title="Peliculas", Cloud 9
+https://peliculas.hyloft.online/Cloud%209%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg" group-title="Peliculas", A Marvel Television Special Presentation - The Punisher: One Last Kill
+https://peliculas.hyloft.online/A%20Marvel%20Television%20Special%20Presentation%20-%20The%20Punisher%20One%20Last%20Kill%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/A5NVJzuluhRi7bp0S7Ljs6L9ctQ.jpg" group-title="Peliculas", Lorne
+https://movies.hyloft.online/Lorne%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/pbslF5pRoi1PN3Ptd2z60wr5R8Q.jpg" group-title="Peliculas", Love & Vodka
+https://movies.hyloft.online/Love%20%26%20Vodka%20%282024%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg" group-title="Peliculas", Project Hail Mary
+https://movies.hyloft.online/Project%20Hail%20Mary%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/bVGHSe47W6oCQL1Q88pvRAet51A.jpg" group-title="Peliculas", Remarkably Bright Creatures
+https://movies.hyloft.online/Remarkably%20Bright%20Creatures%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/eyjWwMOgkq4nh0wMtyW8XPJ749H.jpg" group-title="Peliculas", 42
+https://peliculas.hyloft.online/42%20%282013%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg" group-title="Peliculas", Project Hail Mary
+https://peliculas.hyloft.online/Project%20Hail%20Mary%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/1yw8C3xPzrliGpQp0qHID7F1zOT.jpg" group-title="Peliculas", Remarkably Bright Creatures
+https://peliculas.hyloft.online/Remarkably%20Bright%20Creatures%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/lCPOmWoqtmVrI2yUNUw8iaOaTJn.jpg" group-title="Peliculas", Changing Lanes
+https://peliculas.hyloft.online/Changing%20Lanes%20%282002%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/u0FLlb0vKQLvKmiGE6nyhHODFWH.jpg" group-title="Peliculas", Mi querida señorita
+https://peliculas.hyloft.online/Mi%20querida%20se%C3%B1orita%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/7QXpK9JmwUHFOjl8RQVdMUOg1YA.jpg" group-title="Peliculas", Sin hijos
+https://peliculas.hyloft.online/Sin%20hijos%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/d1TupF3vMdQ6BhnADkFiNf0ZBOo.jpg" group-title="Peliculas", Sangre asesina
+https://peliculas.hyloft.online/Sangre%20asesina%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/r7AKQ0OB69JOPskeTWL3U206ehY.jpg" group-title="Peliculas", Faces of Death
+https://movies.hyloft.online/Faces%20of%20Death%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg" group-title="Peliculas", You, Me & Tuscany
+https://movies.hyloft.online/You%2C%20Me%20%26%20Tuscany%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/ppXYWZdv0qkr9aIRMLjtJPXDDon.jpg" group-title="Peliculas", The General's Daughter
+https://peliculas.hyloft.online/The%20General%27s%20Daughter%20%281999%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/pqVFdQDe0wbZRKg6GDyx3ghYXag.jpg" group-title="Peliculas", The Whole Nine Yards
+https://peliculas.hyloft.online/The%20Whole%20Nine%20Yards%20%282000%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/xq41fcgtkJgorfMPNseNY9lZ25i.jpg" group-title="Peliculas", Life
+https://peliculas.hyloft.online/Life%20%282015%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/vkr2KGu10vCHbK1SM5q2AtWA4TM.jpg" group-title="Peliculas", Cloud 9
+https://peliculas.hyloft.online/Cloud%209%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg" group-title="Peliculas", A Marvel Television Special Presentation - The Punisher: One Last Kill
+https://peliculas.hyloft.online/A%20Marvel%20Television%20Special%20Presentation%20-%20The%20Punisher%20One%20Last%20Kill%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/fx2cEuadZK28VHKkc0F1nFR96i0.jpg" group-title="Peliculas", Ready or Not 2 Here I Come
+https://movies.hyloft.online/Ready%20or%20Not%202%20Here%20I%20Come%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg" group-title="Peliculas", The Drama
+https://movies.hyloft.online/The%20Drama%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg" group-title="Peliculas", The Super Mario Galaxy Movie
+https://movies.hyloft.online/The%20Super%20Mario%20Galaxy%20Movie%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tlPAcPTRJmHgULtUVIasQWQQiVN.jpg" group-title="Peliculas", Death Sentence
+https://peliculas.hyloft.online/Death%20Sentence%20%282007%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/vWriOBVlgW0XWdgbOiijhyLW7B8.jpg" group-title="Peliculas", Cloudy with a Chance of Meatballs 2
+https://peliculas.hyloft.online/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%282013%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tEtkqU4k7i3axhWRTn48q1pEo5o.jpg" group-title="Peliculas", The Boondock Saints II: All Saints Day
+https://peliculas.hyloft.online/The%20Boondock%20Saints%20II%20All%20Saints%20Day%20%282009%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/hGgXH6s3klnWW3x2cbQYlrSVg0U.jpg" group-title="Peliculas", El yerno
+https://peliculas.hyloft.online/El%20yerno%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/q05WV8DwEiyLbCgSVtg55RbUzou.jpg" group-title="Peliculas", They Will Kill You
+https://peliculas.hyloft.online/They%20Will%20Kill%20You%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/piPxbzkBkxtxkNek4YgTayx6aGQ.jpg" group-title="Peliculas", Romy and Michele's High School Reunion
+https://peliculas.hyloft.online/Romy%20and%20Michele%27s%20High%20School%20Reunion%20%281997%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/2skPNvhiF3B0pUigNm1L5KLWvrk.jpg" group-title="Peliculas", Charlie the Wonderdog
+https://movies.hyloft.online/Charlie%20the%20Wonderdog%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/xYddV2h5i50iB2jHFGAwS4TLJ7Z.jpg" group-title="Peliculas", El Jeremías
+https://peliculas.hyloft.online/El%20Jerem%C3%ADas%20%282016%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/9dMp9t0d0nIGhiil8TyqChwiNwA.jpg" group-title="Peliculas", Ready or Not 2: Here I Come
+https://peliculas.hyloft.online/Ready%20or%20Not%202%20Here%20I%20Come%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/hlZGaey4lR9hc4rGxZRAmIEsZOc.jpg" group-title="Peliculas", Beast
+https://movies.hyloft.online/Beast%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/8utNndo8XwsjrvcwSjGTPbcbc4R.jpg" group-title="Peliculas", Last Train to Fortune
+https://movies.hyloft.online/Last%20Train%20to%20Fortune%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/4c3yAe8HzNbrGHQefqXiKeGGrsJ.jpg" group-title="Peliculas", You Can't Win
+https://movies.hyloft.online/You%20Can%27t%20Win%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/A5NVJzuluhRi7bp0S7Ljs6L9ctQ.jpg" group-title="Peliculas", Lorne
+https://movies.hyloft.online/Lorne%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/pbslF5pRoi1PN3Ptd2z60wr5R8Q.jpg" group-title="Peliculas", Love & Vodka
+https://movies.hyloft.online/Love%20%26%20Vodka%20%282024%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg" group-title="Peliculas", Project Hail Mary
+https://movies.hyloft.online/Project%20Hail%20Mary%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/bVGHSe47W6oCQL1Q88pvRAet51A.jpg" group-title="Peliculas", Remarkably Bright Creatures
+https://movies.hyloft.online/Remarkably%20Bright%20Creatures%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/eyjWwMOgkq4nh0wMtyW8XPJ749H.jpg" group-title="Peliculas", 42
+https://peliculas.hyloft.online/42%20%282013%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg" group-title="Peliculas", Project Hail Mary
+https://peliculas.hyloft.online/Project%20Hail%20Mary%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/1yw8C3xPzrliGpQp0qHID7F1zOT.jpg" group-title="Peliculas", Remarkably Bright Creatures
+https://peliculas.hyloft.online/Remarkably%20Bright%20Creatures%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/lCPOmWoqtmVrI2yUNUw8iaOaTJn.jpg" group-title="Peliculas", Changing Lanes
+https://peliculas.hyloft.online/Changing%20Lanes%20%282002%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/u0FLlb0vKQLvKmiGE6nyhHODFWH.jpg" group-title="Peliculas", Mi querida señorita
+https://peliculas.hyloft.online/Mi%20querida%20se%C3%B1orita%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/7QXpK9JmwUHFOjl8RQVdMUOg1YA.jpg" group-title="Peliculas", Sin hijos
+https://peliculas.hyloft.online/Sin%20hijos%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/d1TupF3vMdQ6BhnADkFiNf0ZBOo.jpg" group-title="Peliculas", Sangre asesina
+https://peliculas.hyloft.online/Sangre%20asesina%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/r7AKQ0OB69JOPskeTWL3U206ehY.jpg" group-title="Peliculas", Faces of Death
+https://movies.hyloft.online/Faces%20of%20Death%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg" group-title="Peliculas", You, Me & Tuscany
+https://movies.hyloft.online/You%2C%20Me%20%26%20Tuscany%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/ppXYWZdv0qkr9aIRMLjtJPXDDon.jpg" group-title="Peliculas", The General's Daughter
+https://peliculas.hyloft.online/The%20General%27s%20Daughter%20%281999%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/pqVFdQDe0wbZRKg6GDyx3ghYXag.jpg" group-title="Peliculas", The Whole Nine Yards
+https://peliculas.hyloft.online/The%20Whole%20Nine%20Yards%20%282000%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/xq41fcgtkJgorfMPNseNY9lZ25i.jpg" group-title="Peliculas", Life
+https://peliculas.hyloft.online/Life%20%282015%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/vkr2KGu10vCHbK1SM5q2AtWA4TM.jpg" group-title="Peliculas", Cloud 9
+https://peliculas.hyloft.online/Cloud%209%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg" group-title="Peliculas", A Marvel Television Special Presentation - The Punisher: One Last Kill
+https://peliculas.hyloft.online/A%20Marvel%20Television%20Special%20Presentation%20-%20The%20Punisher%20One%20Last%20Kill%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/uuQpQ8VDOtVL2IO4y2pR58odkS5.jpg" group-title="Peliculas", mother
+https://movies.hyloft.online/mother%21%20%282017%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/97rtBInoyEflDnLi4IcY6hkwQZf.jpg" group-title="Peliculas", On a String
+https://movies.hyloft.online/On%20a%20String%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/nUMclZJRRwREfeP8liJ7LOddjnY.jpg" group-title="Peliculas", Speed Faster
+https://movies.hyloft.online/Speed%20Faster%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/dhobZMNu99x2INdVA2hS9DZDKB1.jpg" group-title="Peliculas", Thieves Highway
+https://movies.hyloft.online/Thieves%20Highway%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg" group-title="Peliculas", Zootopia 2
+https://movies.hyloft.online/Zootopia%202%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/sBEM8U5l7jq0BH7XiC7Zzs4d8e2.jpg" group-title="Peliculas", El cautivo
+https://peliculas.hyloft.online/El%20cautivo%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/bXILbW1i0WRShd6s4LfLKdJM6zm.jpg" group-title="Peliculas", Tom and Jerry: The Fast and the Furry
+https://peliculas.hyloft.online/Tom%20and%20Jerry%20The%20Fast%20and%20the%20Furry%20%282005%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tGO5ysGW0fqJ4SaT2I19atpPpiE.jpg" group-title="Peliculas", The Final Run
+https://peliculas.hyloft.online/The%20Final%20Run%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/uHavtqbnMDcwqVK9Y94ZQSWxtCw.jpg" group-title="Peliculas", El Falsario
+https://peliculas.hyloft.online/El%20falsario%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/y6lSJean1Q103TymChBKig231Fy.jpg" group-title="Peliculas", Mi Primer Amor
+https://peliculas.hyloft.online/Mi%20Primer%20Amor%20%282024%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/uiSaYXR0jLLWma0EPA1tcBhX6wT.jpg" group-title="Peliculas", De las cenizas: Bajo tierra
+https://peliculas.hyloft.online/De%20las%20cenizas%3A%20Bajo%20tierra%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/pbmlCNeOwvCqum8yvMERbgnrSr7.jpg" group-title="Peliculas", 1992
+https://movies.hyloft.online/1992%20%282024%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg" group-title="Peliculas", Anaconda
+https://movies.hyloft.online/Anaconda%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/1OIU2zAFFKwZdxvm0OBrq7PJmkv.jpg" group-title="Peliculas", Caught by Love
+https://movies.hyloft.online/Caught%20by%20Love%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/d10VuEOMroY7ngQi2FUhJH72k0e.jpg" group-title="Peliculas", David
+https://movies.hyloft.online/David%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg" group-title="Peliculas", Greenland 2 Migration
+https://movies.hyloft.online/Greenland%202%20Migration%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/k3TMJGWn4nNkTbp4VEx6IEjvFPe.jpg" group-title="Peliculas", Love on the Amazon
+https://movies.hyloft.online/Love%20on%20the%20Amazon%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/kv8kCuvfhSQ50YxjowqpVn1QqhJ.jpg" group-title="Peliculas", Silent Night, Deadly Night
+https://movies.hyloft.online/Silent%20Night%2C%20Deadly%20Night%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/b8n6P1mxH9oA91YodDrjoScAvuD.jpg" group-title="Peliculas", Skyscraper Live
+https://movies.hyloft.online/Skyscraper%20Live%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg" group-title="Peliculas", The Wrecking Crew
+https://movies.hyloft.online/The%20Wrecking%20Crew%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/u0FLlb0vKQLvKmiGE6nyhHODFWH.jpg" group-title="Peliculas", Mi querida señorita
+https://peliculas.hyloft.online/Mi%20querida%20se%C3%B1orita%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/7QXpK9JmwUHFOjl8RQVdMUOg1YA.jpg" group-title="Peliculas", Sin hijos
+https://peliculas.hyloft.online/Sin%20hijos%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/d1TupF3vMdQ6BhnADkFiNf0ZBOo.jpg" group-title="Peliculas", Sangre asesina
+https://peliculas.hyloft.online/Sangre%20asesina%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/r7AKQ0OB69JOPskeTWL3U206ehY.jpg" group-title="Peliculas", Faces of Death
+https://movies.hyloft.online/Faces%20of%20Death%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg" group-title="Peliculas", You, Me & Tuscany
+https://movies.hyloft.online/You%2C%20Me%20%26%20Tuscany%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/ppXYWZdv0qkr9aIRMLjtJPXDDon.jpg" group-title="Peliculas", The General's Daughter
+https://peliculas.hyloft.online/The%20General%27s%20Daughter%20%281999%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/pqVFdQDe0wbZRKg6GDyx3ghYXag.jpg" group-title="Peliculas", The Whole Nine Yards
+https://peliculas.hyloft.online/The%20Whole%20Nine%20Yards%20%282000%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/xq41fcgtkJgorfMPNseNY9lZ25i.jpg" group-title="Peliculas", Life
+https://peliculas.hyloft.online/Life%20%282015%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/vkr2KGu10vCHbK1SM5q2AtWA4TM.jpg" group-title="Peliculas", Cloud 9
+https://peliculas.hyloft.online/Cloud%209%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg" group-title="Peliculas", A Marvel Television Special Presentation - The Punisher: One Last Kill
+https://peliculas.hyloft.online/A%20Marvel%20Television%20Special%20Presentation%20-%20The%20Punisher%20One%20Last%20Kill%20%282026%29.mp4
+
