@@ -4033,6 +4033,22 @@ https://peliculas.hyloft.online/Finding%20%CA%BBOhana%20%282021%29.mp4
 https://peliculas.hyloft.online/A%20Family%20Affair%20%282024%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rdspkGeXrprR2GxQqlRSHCJl617.jpg" group-title="Fantasía",The Watchers
 https://peliculas.hyloft.online/The%20Watchers%20%282024%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg" group-title="Terror",Lee Cronin's The Mummy
+https://peliculas.hyloft.online/Lee%20Cronin%27s%20The%20Mummy%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/klf2szDlHckM9AXVcL8mSJjeYQ6.jpg" group-title="Documental",Leaving Neverland 2: Surviving Michael Jackson
+https://peliculas.hyloft.online/Leaving%20Neverland%202%3A%20Surviving%20Michael%20Jackson%20%282025%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/44NWPxVOrzSEQyz1Y2Uj1HGCz7o.jpg" group-title="Película de TV",Zapped
+https://peliculas.hyloft.online/Zapped%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kVnmq5neqEYEj6bK2VzItFR8kwa.jpg" group-title="Familia",Firehouse Dog
+https://peliculas.hyloft.online/Firehouse%20Dog%20%282007%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zHjhq29wFo3T58C33FwiPknqrtQ.jpg" group-title="Ciencia ficción",The 7th Dimension
+https://peliculas.hyloft.online/The%207th%20Dimension%20%282010%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg" group-title="Comedia",Socias por accidente
+https://peliculas.hyloft.online/Socias%20por%20accidente%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vx1obRTbY4PB1v5HJ6HJpl3jMxb.jpg" group-title="Romance",No es pais para solteros
+https://peliculas.hyloft.online/No%20es%20pa%C3%ADs%20para%20solteros%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zJ42vbF27awhNZHrZ5IzYslOwow.jpg" group-title="Comedia",Adventures in Babysitting
+https://peliculas.hyloft.online/Adventures%20in%20Babysitting%20%282016%29.mp4
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547756318331.png" group-title="Tv en Vivo", America Teve
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1732153061463.png" group-title="Tv en Vivo", Caracol
