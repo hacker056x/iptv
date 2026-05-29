@@ -6429,3 +6429,383 @@ https://peliculas.hyloft.online/Rattlesnake%20%282019%29.mp4
 https://peliculas.hyloft.online/Crypto%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4xBbgmfkRdrWpW1KfamxQyTFmaw.jpg" group-title="Drama",Jinn
 https://peliculas.hyloft.online/Jinn%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="Familia",Frozen II
+https://peliculas.hyloft.online/Frozen%20II%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/k6736bg6aegasOQCPqkeKjQoNp6.jpg" group-title="Bélica",KV1 Almas de Hierro
+https://peliculas.hyloft.online/KV1%20Almas%20de%20Hierro%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg" group-title="Comedia",Knives Out
+https://peliculas.hyloft.online/Knives%20Out%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4VieTeusf6fsiWhqTYUh1vbRTTQ.jpg" group-title="Drama",The Coldest Game
+https://peliculas.hyloft.online/The%20Coldest%20Game%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bN7aRB5wrxKklCZZKSJKeb6LCFo.jpg" group-title="Familia",Timmy Failure: Mistakes Were Made
+https://peliculas.hyloft.online/Timmy%20Failure%3A%20Mistakes%20Were%20Made%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/jo5PFU5Z8c5xnI5JKB70zBcAen5.jpg" group-title="Drama",The Warning
+https://peliculas.hyloft.online/El%20Aviso%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oBbVv45gZfe8N44uxhwGcpiEZEY.jpg" group-title="Drama",El Chicano
+https://peliculas.hyloft.online/El%20Chicano%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9TmuYrgCxFtvkqU61khpjUfSH9H.jpg" group-title="Suspense",Her Worst Nightmare
+https://peliculas.hyloft.online/Her%20Worst%20Nightmare%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lKrhS7Y5OgO7y6R8PqfRNbD6nV6.jpg" group-title="Comedia",Asfixia
+https://peliculas.hyloft.online/Asfixia%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yxe9MSuSjXDH676Al1Sg6JEzejq.jpg" group-title="Acción",Outbreak
+https://peliculas.hyloft.online/Outbreak%20%281995%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eoCZ84UK0E3X7ru4VAE2ept88zl.jpg" group-title="Romance",To All the Boys: P.S. I Still Love You
+https://peliculas.hyloft.online/To%20All%20the%20Boys%3A%20P.S.%20I%20Still%20Love%20You%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/g20tV3qAHG0aIM7awyKe5mAZ6Wu.jpg" group-title="Acción",China Salesman
+https://peliculas.hyloft.online/China%20Salesman%20%282017%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hehlwNM5Lpzo7ndkint6RnpQGeo.jpg" group-title="Animación",Dragon Quest Your Story
+https://peliculas.hyloft.online/Dragon%20Quest%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lXLKmT6mtizYvweAgPXVHs0ApvR.jpg" group-title="Comedia",Campeones
+https://peliculas.hyloft.online/Campeones%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/uIlx33SKoJh3Ne0QmQDi9mlcjGx.jpg" group-title="Drama",Una mujer fantastica
+https://peliculas.hyloft.online/Una%20Mujer%20Fantastica%20%282017%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg" group-title="Aventura",Ready Player One
+https://peliculas.hyloft.online/Ready%20Player%20One%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/22UFZsZHviButja9gaR0vLQzf20.jpg" group-title="Western",Hickok
+https://peliculas.hyloft.online/Hickok%20%282017%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kWROlpAf9BaJpZ2aqkNrzDAeNkm.jpg" group-title="Drama",Initials S.G.
+https://peliculas.hyloft.online/Initials%20S.G.%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bZ7H0kCwEM6CQ0dyCs2H4RkU130.jpg" group-title="Romance",Isi and Ossi
+https://peliculas.hyloft.online/Isi%20%26%20Ossi%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hwDrkA2gxSElvo2eO1eEmXkArnb.jpg" group-title="Crimen",Queen and Slim
+https://peliculas.hyloft.online/Queen%20%26%20Slim%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9IoYdeNNoO5G8YFNKAdyskE9syg.jpg" group-title="Drama",Vita and Virginia
+https://peliculas.hyloft.online/Vita%20%26%20Virginia%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9eTR8jfNbdMhEQhtuTVVC8oY2fp.jpg" group-title="Drama",Capernaum
+https://peliculas.hyloft.online/Capernaum%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1KGbMtuySUtRggWlYPXyTWFcxLx.jpg" group-title="Comedia",Cindy la Regia
+https://peliculas.hyloft.online/Cindy%20la%20Regia%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qqWh6R1bxntTrEDkgcGonwG0y14.jpg" group-title="Drama",Dark Waters
+https://peliculas.hyloft.online/Dark%20Waters%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yFm8vzcFnA3KyJ5pMSx4iC5ftYh.jpg" group-title="Aventura",Black Water
+https://peliculas.hyloft.online/Black%20Water%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qMxr8HtP4D5LGl0rD1hspMooaL0.jpg" group-title="Comedia",Yo, Potro
+https://peliculas.hyloft.online/Yo%2C%20Potro%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg" group-title="Animación",The King
+https://peliculas.hyloft.online/The%20King%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zFzRbVWduN0qewAjLJEKlNvMunt.jpg" group-title="Familia",Dora and the Lost City of Gold
+https://peliculas.hyloft.online/Dora%20and%20the%20Lost%20City%20of%20Gold%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ApqacZbRDKZDq3JFHgbCmYvX3vD.jpg" group-title="Terror",Assimilate
+https://peliculas.hyloft.online/Assimilate%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/a3t1RktaXBTfNmwzuIoTC4rpuJj.jpg" group-title="Documental",At the Heart of Gold: Inside the USA Gymnastics Scandal
+https://peliculas.hyloft.online/At%20the%20Heart%20of%20Gold%20Inside%20the%20USA%20Gymnastics%20Scandal%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8zqptFnq7GhpVEXzfOnNxWbN0U2.jpg" group-title="Comedia",Good Boys
+https://peliculas.hyloft.online/Good%20Boys%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/A9WiW68z1vORtwOVkSXtBucgk4c.jpg" group-title="Crimen",Hacker
+https://peliculas.hyloft.online/Hacker%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cJHwSDugMi8zGt3wSTIqEgCv6fB.jpg" group-title="Romance",Holiday in the Wild
+https://peliculas.hyloft.online/Holiday%20in%20the%20Wild%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/67wUJtvhQKkGNryrpE00AfD7EkJ.jpg" group-title="Crimen",Lying and Stealing
+https://peliculas.hyloft.online/Lying%20and%20Stealing%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aMbqyaLOd2PCFvStNcz3EfPnsh2.jpg" group-title="Acción",MYSTERIOUS FIGHTER Project A
+https://peliculas.hyloft.online/MYSTERIOUS%20FIGHTER%20Project%20A%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ocBga8LrdII7i3gUOXvgU2zUGCS.jpg" group-title="Comedia",The Awakening of Motti Wolkenbruch
+https://peliculas.hyloft.online/The%20Awakening%20of%20Motti%20Wolkenbruch%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sF6VVT4VhyjEzXiDOKvj5n4u64X.jpg" group-title="Comedia",Mi amigo Enzo
+https://peliculas.hyloft.online/Mi%20amigo%20Enzo%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mFaVMZvmICRQMmBZZguVrgDzyBT.jpg" group-title="Fantasía",The Man Without Gravity
+https://peliculas.hyloft.online/The%20Man%20Without%20Gravity%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vHbizQYlkL8MwtOdsdWaPuR5N5w.jpg" group-title="Animación",Lady and the Tramp
+https://peliculas.hyloft.online/Lady%20and%20the%20Tramp%20%281955%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mu2CPpT2XUVgsDEdtcelXhq5DwH.jpg" group-title="Drama",A Private War
+https://peliculas.hyloft.online/A%20Private%20War%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jzo6I6SKTFPLXK8BqZhq7sTVCSV.jpg" group-title="Drama",Extremely Wicked, Shockingly Evil and Vile
+https://peliculas.hyloft.online/Extremely%20Wicked%2C%20Shockingly%20Evil%20and%20Vile%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/zaoIWpWjU6XpCKyKJvdOrTocQdn.jpg" group-title="Peliculas",The Ladybug
+https://peliculas.hyloft.online/Ladybug%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg" group-title="Acción",Angel Has Fallen
+https://peliculas.hyloft.online/Angel%20Has%20Fallen%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1rHJJcmCd4cyGoF9dVJ2Nw4KQph.jpg" group-title="Comedia",Mentada de Padre
+https://peliculas.hyloft.online/Mentada%20de%20padre%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg" group-title="Familia",Noelle
+https://peliculas.hyloft.online/Noelle%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/e2KxzTS4eUS01tK3IjZWNie62jq.jpg" group-title="Comedia",Como si fuera la primera vez
+https://peliculas.hyloft.online/As%20If%20It%20Were%20the%20First%20Time%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dwvB1SNDqxYokRVb3DHY94dEpuO.jpg" group-title="Comedia",House Arrest
+https://peliculas.hyloft.online/House%20Arrest%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9oERKIVyTWpHNum3STVsAGD4ojz.jpg" group-title="Terror",It Chapter Two
+https://peliculas.hyloft.online/It%20Chapter%20Two%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oyKnosHXQ7kkhlGwqsWOvn4RgKR.jpg" group-title="Drama",Earthquake Bird
+https://peliculas.hyloft.online/Earthquake%20Bird%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aLniylyJlbXEdxvaGSuQkRACWUx.jpg" group-title="Animación",Klaus
+https://peliculas.hyloft.online/Klaus%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg" group-title="Comedia",Once Upon a Time... in Hollywood
+https://peliculas.hyloft.online/Once%20Upon%20a%20Time%E2%80%A6%20in%20Hollywood%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg" group-title="Suspense",Ready or Not
+https://peliculas.hyloft.online/Ready%20or%20Not%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/azRGK26vvQq9fRrTPgT1UKfD79h.jpg" group-title="Drama",Trial by Fire
+https://peliculas.hyloft.online/Trial%20by%20Fire%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8waiMa3Ockoi4oY1vvqNnfW35xu.jpg" group-title="Comedia",The Knight Before Christmas
+https://peliculas.hyloft.online/The%20Knight%20Before%20Christmas%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wOAFvCWtZGGD2H5NiqhtVDtMdoE.jpg" group-title="Romance",Let It Snow
+https://peliculas.hyloft.online/Let%20It%20Snow%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ij1QcacsPGq0Cvc3l73YTCmNFjc.jpg" group-title="Drama",The Goldfinch
+https://peliculas.hyloft.online/The%20Goldfinch%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lUUKtu9yYU6jJBjHTj57Yb6WNAa.jpg" group-title="Suspense",Deadly Excursion
+https://peliculas.hyloft.online/Deadly%20Excursion%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/xKrI2vIIvJH4C4JbtYajFQGZZzC.jpg" group-title="Drama",Holiday Rush
+https://peliculas.hyloft.online/Holiday%20Rush%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nBAiFdtJglEUBkFGpn0ThLjQCUY.jpg" group-title="Suspense",The Midwifes Deception
+https://peliculas.hyloft.online/The%20Midwifes%20Deception%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mCTvhb6XfOQIXOI04OE9zjMqT1U.jpg" group-title="Drama",Hustlers
+https://peliculas.hyloft.online/Hustlers%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4alJg9gF8WXiYNo1w4kUimmYcLm.jpg" group-title="Drama",We the Animals
+https://peliculas.hyloft.online/We%20the%20Animals%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dpLy93Lej2kfc4lmW74APllXcpS.jpg" group-title="Animación",Manou the Swift
+https://peliculas.hyloft.online/Manou%20the%20Swift%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kG3pY61LWGAzcaSne12CGEeRvtg.jpg" group-title="Acción",Rambo: Last Blood
+https://peliculas.hyloft.online/Rambo%3A%20Last%20Blood%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/436T2Ct0SyQlb262ogsHLumepwi.jpg" group-title="Familia",Abominable
+https://peliculas.hyloft.online/Abominable%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tIBEsnzhz5NE1KTzwyvJlFIGEhg.jpg" group-title="Suspense",Dead Kids
+https://peliculas.hyloft.online/Dead%20Kids%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg" group-title="Crimen",The Irishman
+https://peliculas.hyloft.online/The%20Irishman%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/opePIU8Qt1jayldYY3GzuxqSy2J.jpg" group-title="Drama",Marriage Story
+https://peliculas.hyloft.online/Marriage%20Story%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg" group-title="Ciencia ficción",Ad Astra
+https://peliculas.hyloft.online/Ad%20Astra%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/595o8eHiYsHZyDslrW1HwD6G0FD.jpg" group-title="Familia",Playmobil: The Movie
+https://peliculas.hyloft.online/Playmobil%3A%20The%20Movie%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/t7RWYLh5vuHY6zIf794gyjrRQG3.jpg" group-title="Familia",3 Bears Christmas
+https://peliculas.hyloft.online/3%20Bears%20Christmas%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ug4XukdNLwD9Ygyw4V0L5DjoNAp.jpg" group-title="Acción",6 Underground
+https://peliculas.hyloft.online/6%20Underground%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/m4lCfWsCiWjlq5S2jItRUbF5QM0.jpg" group-title="Terror",Anna and the Apocalypse
+https://peliculas.hyloft.online/Anna%20and%20the%20Apocalypse%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nMJ2DrEg2EbGFwa0Fqx93Si1SiN.jpg" group-title="Romance",Can You Keep a Secret
+https://peliculas.hyloft.online/Can%20You%20Keep%20a%20Secret%3F%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2LlpkPEgW07GfekHxKQsHIJhZdq.jpg" group-title="Música",Lets Dance
+https://peliculas.hyloft.online/Let%27s%20Dance%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zzo0rfLxgcbUPfjT3yjBYioFpv9.jpg" group-title="Familia",Patrick
+https://peliculas.hyloft.online/Patrick%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aBI8CcMVaiTSS28n34uAx7ZVit2.jpg" group-title="Romance",A Christmas Prince: The Royal Baby
+https://peliculas.hyloft.online/A%20Christmas%20Prince%3A%20The%20Royal%20Baby%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9Uuqt9fHNWZj6NHbiMp83IFTtVt.jpg" group-title="Terror",Dont Let Go
+https://peliculas.hyloft.online/Dont%20let%20go%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ztL8FMzGSNGfptVkfA0LCrqZNsO.jpg" group-title="Comedia",Todas Caen
+https://peliculas.hyloft.online/Todas%20caen%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bsQZDSRHrRkkLWC1PgMT89dr9xA.jpg" group-title="Comedia",Zombieland
+https://peliculas.hyloft.online/Zombieland%20%282009%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2z2jsaDHxZE9L85LORRuwg1L1M2.jpg" group-title="Acción",Trauma Center
+https://peliculas.hyloft.online/Trauma%20Center%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hYgQD8PHFOOapdvuONWn3NJEal6.jpg" group-title="Crimen",A Violent Separation
+https://peliculas.hyloft.online/A%20Violent%20Separation%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mZxUL08hcs1tzLF7v7SA6enD118.jpg" group-title="Ciencia ficción",Code 8
+https://peliculas.hyloft.online/Code%208%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cnp6QIYN9V1oHjiQZyBjC1r1PK7.jpg" group-title="Animación",I Lost My Body
+https://peliculas.hyloft.online/I%20Lost%20My%20Body%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pOKtpczUTn1Wfsv3btHEI3AgqIe.jpg" group-title="Crimen",Stockholm
+https://peliculas.hyloft.online/Stockholm%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2sN72jsMYrLYrLNQyP2gGXh0aX6.jpg" group-title="Documental",The Elephant Queen
+https://peliculas.hyloft.online/The%20Elephant%20Queen%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg" group-title="Crimen",Joker
+https://peliculas.hyloft.online/Joker%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/asQQdmkKQ2Jz5RlQX3a1hfcuS3G.jpg" group-title="Comedia",What Happens In Vegas
+https://peliculas.hyloft.online/Algo%20pasa%20en%20las%20vegas%282008%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pux7s4pXUcTvxB1fAODSaEXeXRH.jpg" group-title="Suspense",Hard Night Falling
+https://peliculas.hyloft.online/Hard%20Night%20Falling%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7vreJ8BKz4ZN5VBHO8ghSqlr07j.jpg" group-title="Aventura",The Aeronauts
+https://peliculas.hyloft.online/The%20Aeronauts%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1KrH8cM2KudyhjJK8NtTgf2lMIP.jpg" group-title="Drama",The Two Popes
+https://peliculas.hyloft.online/The%20Two%20Popes%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/a4Uwb4vnep76r1HRNduFgT9MRez.jpg" group-title="Terror",Midsommar
+https://peliculas.hyloft.online/Midsommar%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/prJuHMuv4NBlZ0UEPpoSe8iDFkW.jpg" group-title="Drama",Bel Canto
+https://peliculas.hyloft.online/Bel%20Canto%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8UElHPbyw7c7lcqR5bqhlemiQMr.jpg" group-title="Suspense",Cold Blood Legacy
+https://peliculas.hyloft.online/Cold%20Blood%20Legacy%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg" group-title="Familia",Maleficent: Mistress of Evil
+https://peliculas.hyloft.online/Maleficent%3A%20Mistress%20of%20Evil%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iTmP1q4EIdeJWtVjMNX9O0CGoY9.jpg" group-title="Música",Wild Rose
+https://peliculas.hyloft.online/Wild%20rose%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg" group-title="Comedia",The Addams Family
+https://peliculas.hyloft.online/The%20Addams%20Family%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg" group-title="Aventura",Togo
+https://peliculas.hyloft.online/Togo%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dYAGOLyEH93GePufC7vQ9gzFwn7.jpg" group-title="Acción",Black and Blue
+https://peliculas.hyloft.online/Black%20and%20Blue%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/imuYGNcXgv6rmZBtwWRypGc7TqH.jpg" group-title="Ciencia ficción",Gemini Man
+https://peliculas.hyloft.online/Gemini%20Man%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ePCSbmpMsN2TcbSCqNC4GP92ixr.jpg" group-title="Terror",47 Meters Down: Uncaged
+https://peliculas.hyloft.online/47%20Meters%20Down%3A%20Uncaged%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qFTGgK8Eaa4WMGwkzeOv6Tp8YTG.jpg" group-title="Comedia",El Equipito Capitulo 1Todo por una Herencia
+https://peliculas.hyloft.online/El%20Equipito%2C%20Capitulo%201%3A%20%C2%A1Todo%20por%20una%20Herencia%21%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o9cSEHrXzPOO4OIoT9yrdxc216w.jpg" group-title="Comedia",Como caido del cielo
+https://peliculas.hyloft.online/Como%20Caido%20Del%20Cielo%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4BJ1sxznBXp3K5BSUMEbrmQ0j1o.jpg" group-title="Drama",Sonora: The Devils Highway
+https://peliculas.hyloft.online/Sonora%3A%20The%20Devils%20Highway%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4rIscCJgrjdWF40FT6MBNsMDdXV.jpg" group-title="Drama",The App
+https://peliculas.hyloft.online/The%20App%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/b3pTOf9g2MExrzjVpH1y2dOF855.jpg" group-title="Comedia",Whered You Go, Bernadette
+https://peliculas.hyloft.online/Whered%20You%20Go%2C%20Bernadette%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bGucFJGHeTqrK5Au4rYFzaZ8JIz.jpg" group-title="Romance",Yes, I Do
+https://peliculas.hyloft.online/Yes%2C%20I%20Do%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kdf4VMqAFFsQSsaqtpd1iMejCFk.jpg" group-title="Terror",Spoor
+https://peliculas.hyloft.online/Spoor%20%282017%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zN3Iw47whkgo9fhgGRHULcc39gs.jpg" group-title="Drama",Yuli
+https://peliculas.hyloft.online/Yuli%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg" group-title="Terror",Zombieland: Double Tap
+https://peliculas.hyloft.online/Zombieland%3A%20Double%20Tap%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1rZt61OUa4WwF4PaN7Lt29YGoV8.jpg" group-title="Crimen",Cut Off
+https://peliculas.hyloft.online/Aislados%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6T3MopiUUWoye1VHDQ85lrj0hki.jpg" group-title="Película de TV",Crossword Mysteries A Puzzle to Die For
+https://peliculas.hyloft.online/The%20Crossword%20Mysteries%20A%20Puzzle%20to%20Die%20For%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/A5urWIklagQnAaJ8ZfNuq1KyPEu.jpg" group-title="Terror",Ghost Stories
+https://peliculas.hyloft.online/Ghost%20Stories%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qEvgdGBMORPS0rz8pqkVH3obLee.jpg" group-title="Drama",Her Smell
+https://peliculas.hyloft.online/Her%20Smell%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/r63LaAngw0LAkgYmvA5gllmOUjm.jpg" group-title="Drama",Drive
+https://peliculas.hyloft.online/Drive%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bvkz0vDtvE18G3OzKEWk1Cpimjk.jpg" group-title="Comedia",Mi Mama Es Una Espia
+https://peliculas.hyloft.online/Mi%20Mama%20Es%20Una%20Espia%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg" group-title="Ciencia ficción",Monos
+https://peliculas.hyloft.online/Monos%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6Ja7E1FxVRtQY0i0sOslbBCAzu2.jpg" group-title="Acción",Golden Job
+https://peliculas.hyloft.online/Golden%20Job%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pYVEQixnyWCjL1sBnyEPsIDatnE.jpg" group-title="Drama",Saint Judy
+https://peliculas.hyloft.online/Saint%20Judy%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vasXCxcYhDnIcbOvyJG2KfHluvX.jpg" group-title="Comedia",Todas las Pecas del Mundo
+https://peliculas.hyloft.online/Todas%20las%20Pecas%20del%20Mundo%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5ACJu8n3KaJSzM5nmGaA5q6VkH3.jpg" group-title="Comedia",Vivir dos veces
+https://peliculas.hyloft.online/Vivir%20dos%20veces%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lh0BwrB7ZC2fcMvYu2TBXpY1nsM.jpg" group-title="Drama",The Other Side of Heaven 2: Fire of Faith
+https://peliculas.hyloft.online/The%20Other%20Side%20of%20Heaven%202%3A%20Fire%20of%20Faith%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8PcCffhPbHqPjCQOYJCB5bnHRTV.jpg" group-title="Ciencia ficción",Snatchers
+https://peliculas.hyloft.online/Snatchers%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iRsw07UPub3fzMYcuuxB2DH0YYM.jpg" group-title="Peliculas",Pain And Glory
+https://peliculas.hyloft.online/Dolor%20y%20gloria%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1wIp3yBijtgEpQrHZLqoX5laGLJ.jpg" group-title="Terror",Abigail
+https://peliculas.hyloft.online/Abigail%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/h69OPPojqbIObPCfVDsMJAPgPZm.jpg" group-title="Documental",Apollo 11
+https://peliculas.hyloft.online/Apollo%2011%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2kCc7XxwFlOI4D2UF7ezDB910cc.jpg" group-title="Crimen",Inherit the Viper
+https://peliculas.hyloft.online/Inherit%20the%20Viper%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/shBaoO0GSViMqpBnjb2axev1Hmy.jpg" group-title="Terror",The Bad Seed
+https://peliculas.hyloft.online/The%20Bad%20Seed%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5iDzZadhvkPdIOYruNV0ZLvVYpg.jpg" group-title="Comedia",Un Papa Pirata
+https://peliculas.hyloft.online/Un%20Papa%20Pirata%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qHoCC9A8s00VqulXvSJOrnVXQgB.jpg" group-title="Comedia",Undercover Brother 2
+https://peliculas.hyloft.online/Undercover%20Brother%202%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/llnjXuqpoiMdiRmRqygsLXEqT6g.jpg" group-title="Drama",Nowhere to Be Found
+https://peliculas.hyloft.online/Nowhere%20to%20Be%20Found%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg" group-title="Ciencia ficción",Terminator: Dark Fate
+https://peliculas.hyloft.online/Terminator%3A%20Dark%20Fate%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rOXciqRgEXqRvvYS6Dk2im3NF7H.jpg" group-title="Terror",The Devils Advocate
+https://peliculas.hyloft.online/The%20Devil%27s%20Advocate.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/t5oMn99BVp9IJruztEwpKgvqA2h.jpg" group-title="Comedia",La odisea de los giles
+https://peliculas.hyloft.online/La%20odisea%20de%20los%20giles%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/deiJ0Z1Jzu0octbBp07y8Ku7cSx.jpg" group-title="Comedia",Placa de Acero
+https://peliculas.hyloft.online/Placa%20de%20Acero%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2X86f3KRbdStQXk0f8pZovSRpal.jpg" group-title="Drama",Motherless Brooklyn
+https://peliculas.hyloft.online/Motherless%20Brooklyn%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mS6LJ9Mc9dDQg1UP6BcrsgCvIp6.jpg" group-title="Drama",Harriet
+https://peliculas.hyloft.online/Harriet%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oEMkHQyfCXuZLP69UqAImW5Rbot.jpg" group-title="Comedia",Troop Zero
+https://peliculas.hyloft.online/Troop%20Zero%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/k3k0DNqis7s18vEOtSwagJIkDXP.jpg" group-title="Animación",Ninokuni
+https://peliculas.hyloft.online/NinoKuni%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/reF2U5tqgF1rFvkKsiEhz4vI3t3.jpg" group-title="Peliculas",Conrad and Michelle: If Words Could Kill
+https://peliculas.hyloft.online/Conrad%20%26%20Michelle%3A%20If%20Words%20Could%20Kill%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9934M6PgJXqsYLEZ1iUgjcowucE.jpg" group-title="Documental",El Pepe: A Supreme Life
+https://peliculas.hyloft.online/El%20Pepe%2C%20Una%20Vida%20Suprema%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ctC40TabH9GwqBXpEgBeJXs9Dzl.jpg" group-title="Comedia",Maya the Bee: The Honey Games
+https://peliculas.hyloft.online/Maya%20the%20Bee%3A%20The%20Honey%20Games%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pIRia9ZqoGbzNRlJujsxnvg4mXW.jpg" group-title="Comedia",La Maravilla
+https://peliculas.hyloft.online/La%20Maravilla%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/egJRYBtKdi116QFcfCLADahD8SY.jpg" group-title="Suspense",Motel Acqua
+https://peliculas.hyloft.online/Motel%20Acqua%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eA0QVLSymgfTgqAtB6AdWAU5t6Q.jpg" group-title="Comedia",La boda de la abuela
+https://peliculas.hyloft.online/La%20boda%20de%20la%20abuela%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/7doCBDNnEITiRg4LPI7wK1jdb4p.jpg" group-title="Comedia",Superlopez
+https://peliculas.hyloft.online/Superlopez%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vs5mdjO1HUCyw6sHq22fwHveIC4.jpg" group-title="Acción",All the Devils Men
+https://peliculas.hyloft.online/All%20the%20Devil%27s%20Men%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2gucnaxqpzEDycFmPwwqjiwvemA.jpg" group-title="Terror",Doctor Sleep
+https://peliculas.hyloft.online/Doctor%20Sleep%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fkjZy0YxNIGJ1VhVevbLzr2co6r.jpg" group-title="Drama",A Fall From Grace
+https://peliculas.hyloft.online/A%20Fall%20From%20Grace%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cMNiuu6Qcx7YdCRIdmia164AmV1.jpg" group-title="Familia",Playing with Fire
+https://peliculas.hyloft.online/Playing%20with%20Fire%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6DQvNzUFjKj3pfbBNsMl1UJKTzp.jpg" group-title="Música",Step Up China
+https://peliculas.hyloft.online/Step%20Up%20China%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/e64pw9gmbQJik2H6C4buiX1ilB7.jpg" group-title="Drama",Rojo
+https://peliculas.hyloft.online/Gorri%C3%B3n%20rojo%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5yOGz17HhJsLPJ4fat8HgXzAX8K.jpg" group-title="Drama",Black 47
+https://peliculas.hyloft.online/Black%2047%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/fBoR7WM0hwUQiMpE50hZgXo5XLM.jpg" group-title="Bélica",Arctic
+https://peliculas.hyloft.online/Arctic%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2Klf04VFYCl0TKwulXVlGsSRN78.jpg" group-title="Crimen",The Good Liar
+https://peliculas.hyloft.online/The%20Good%20Liar%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qDNVTzrl6drjsdp0bFi1pLd3s1z.jpg" group-title="Drama",En Altamar
+https://peliculas.hyloft.online/En%20Altamar%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/AcVAqTnPSiOtuWIj0zauw5WyjYp.jpg" group-title="Comedia",Last Christmas
+https://peliculas.hyloft.online/Last%20Christmas%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/w3XhnW1xiLdXn1Mv1jaaUSwK6sQ.jpg" group-title="Crimen",London Fields
+https://peliculas.hyloft.online/London%20Fields%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/u6ldY8hAZ3FuK2xW6BQe9RYNpel.jpg" group-title="Suspense",Party Hard Die Young 2018
+https://peliculas.hyloft.online/Party%20Hard%2C%20Die%20Young%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jXECayNX9hEZUMrxnpRCBZWVcMh.jpg" group-title="Comedia",The Art of Self-Defense
+https://peliculas.hyloft.online/The%20Art%20of%20Self-Defense%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/s5NorLt79GyTgqWM2ewCBhhNUne.jpg" group-title="Drama",After the Wedding
+https://peliculas.hyloft.online/After%20the%20Wedding%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6DORnWkVXQHI7ZUefV6c4Ox2B1m.jpg" group-title="Drama",Quien a hierro mata
+https://peliculas.hyloft.online/Quien%20a%20hierro%20mata%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg" group-title="Drama",Ford v Ferrari
+https://peliculas.hyloft.online/Ford%20v%20Ferrari%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/i8Y2hrGkY1Ih08V7TiJd3IuQeL5.jpg" group-title="Suspense",Against the Clock
+https://peliculas.hyloft.online/Against%20the%20Clock%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jWcxcTE0LfDL1M4NSN2NORvEyho.jpg" group-title="Comedia",Airplane Mode
+https://peliculas.hyloft.online/Airplane%20Mode%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jYwCTKSmvAey3PDvrj7TCZuso5q.jpg" group-title="Terror",Countdown
+https://peliculas.hyloft.online/Countdown%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eFe1awh6eHTgE6mKQy8yRE5dAG6.jpg" group-title="Animación",Racetime
+https://peliculas.hyloft.online/Racetime%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/aBaelrkyfHBznIH00lOpcESV7nB.jpg" group-title="Comedia",Thi Mai
+https://peliculas.hyloft.online/Thi%20Mai%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pRlNAWZPGI3hQupgZHSYJGkgs6T.jpg" group-title="Documental",The Kleptocrats
+https://peliculas.hyloft.online/The%20Kleptocrats%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/p9jpl4brgiymBSBod61hAV7ONKn.jpg" group-title="Documental",Kobe Bryants Muse
+https://ppvevents.hyloft.online/KOBE%20BRYANT
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5h4UApKNe62K8hoUCc151kQ56Uc.jpg" group-title="Comedia",No se Aceptan Devoluciones
+https://peliculas.hyloft.online/No%20se%20Aceptan%20Devoluciones%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mXzGIu482Jvh6r8HXNLjSzke45p.jpg" group-title="Drama",Close Enemies
+https://peliculas.hyloft.online/Enemigos%20Intimos%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nmRdVrAy9icP0NWsSjwBUgvlu21.jpg" group-title="Suspense",Official Secrets
+https://peliculas.hyloft.online/Official%20Secrets%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/AojRnYAdJEScffAOlFpOHs5iy0i.jpg" group-title="Drama",Mientras dure la guerra
+https://peliculas.hyloft.online/Mientras%20dure%20la%20guerra%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1tOzBr9wvo37KgFiFYLc16AGvAX.jpg" group-title="Drama",Uncut Gems
+https://peliculas.hyloft.online/Uncut%20Gems%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jNXIFpIiWfsIgOBUWQjxoYI276j.jpg" group-title="Drama",Contagion
+https://peliculas.hyloft.online/Contagion%20%282011%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lHP9SJpjuHPSPMMTK6rKPsBeu47.jpg" group-title="Drama",The Girl in the Bathtub
+https://peliculas.hyloft.online/The%20Girl%20in%20the%20Bathtub%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/AvsLqUxjyBBYXlbcUdIzt3hvhfh.jpg" group-title="Acción",Driven
+https://peliculas.hyloft.online/Driven%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/iaPr8LZoBvzWjn3xSjAZmMNQoUj.jpg" group-title="Documental",Framing John DeLorean
+https://peliculas.hyloft.online/Framing%20John%20DeLorean%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/A3DD0R6vZ5SwD0qGKaU7HL5KVat.jpg" group-title="Peliculas",Primal
+https://peliculas.hyloft.online/Primal%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bNF1u2noPXiD4m81YDoxbtzlRLR.jpg" group-title="Terror",Witches in the Woods
+https://peliculas.hyloft.online/Witches%20in%20the%20Woods%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/870PgrCYGIryqkOuufgxAFXGgVI.jpg" group-title="Drama",We Are The Heat
+https://peliculas.hyloft.online/We%20Are%20The%20Heat%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2tCUJYr9EbWi9UST1KJjy06evB7.jpg" group-title="Comedia",Flu
+https://peliculas.hyloft.online/Flu%20%282013%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/L56pZmao0tTUD7sYQUa6MyO67g.jpg" group-title="Crimen",21 Bridges
+https://peliculas.hyloft.online/21%20Bridges%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5KRPe0XObWOVGVzDaGSAxG2w8bd.jpg" group-title="Comedia",Jojo Rabbit
+https://peliculas.hyloft.online/Jojo%20Rabbit%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/quGrtVer6MPfAY6gEDm0JA1ugZ5.jpg" group-title="Romance",Love Jacked
+https://peliculas.hyloft.online/Love%20Jacked%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/wKLnA7SRgSUvsm81KLjgcDl0rDc.jpg" group-title="Familia",Missing Link
+https://peliculas.hyloft.online/Missing%20Link%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/do6qSMIGPsqSqwuL1iTcp9Km8iA.jpg" group-title="Drama",Dos veces tu
+https://peliculas.hyloft.online/Dos%20veces%20tu%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zjbNizlvp7G1fcUtmJeDzaxtIGW.jpg" group-title="Acción",Midway
+https://peliculas.hyloft.online/Midway%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/u4gf0iVi6J2l9FDH1w0V0qdLQ47.jpg" group-title="Historia",A Beautiful Day in the Neighborhood
+https://peliculas.hyloft.online/A%20Beautiful%20Day%20in%20the%20Neighborhood%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2Ezyjk2IcZ77fR5mIp4vDfLPe8S.jpg" group-title="Drama",Horse Girl
+https://peliculas.hyloft.online/Horse%20Girl%20%282020%29.mp4
