@@ -4049,6 +4049,26 @@ https://peliculas.hyloft.online/Socias%20por%20accidente%20%282026%29.mp4
 https://peliculas.hyloft.online/No%20es%20pa%C3%ADs%20para%20solteros%20%282026%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zJ42vbF27awhNZHrZ5IzYslOwow.jpg" group-title="Comedia",Adventures in Babysitting
 https://peliculas.hyloft.online/Adventures%20in%20Babysitting%20%282016%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dJqv61OB3jsdUEOJTaOGZ64ZLeD.jpg" group-title="Acción",Tom Clancy's Jack Ryan: Ghost War
+https://peliculas.hyloft.online/Tom%20Clancy%27s%20Jack%20Ryan%20Ghost%20War%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gdc13Aj5w3Wn4RiJtYFHtrXIG2L.jpg" group-title="Drama",Mark Felt: The Man Who Brought Down the White House
+https://peliculas.hyloft.online/Mark%20Felt%20The%20Man%20Who%20Brought%20Down%20the%20White%20House%20%282017%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/94rN5UvfjweSKOMyBhxnbHuHo9w.jpg" group-title="Familia",G-Force
+https://peliculas.hyloft.online/G-Force%20%282009%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/1mUSv9jXH0lNR627IXuwJW77rkR.jpg" group-title="Acción",Daybreakers
+https://peliculas.hyloft.online/Daybreakers%20%282010%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/tMEu0gniT4zfcyDF5KMjof0DMog.jpg" group-title="Misterio",The Housemaid
+https://peliculas.hyloft.online/The%20Housemaid%20(2025).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vH7WPEgHxy1JLKsjBgSfY7NIf9W.jpg" group-title="Ciencia ficción",The Long Walk
+https://peliculas.hyloft.online/The Long Walk (2025).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zlK2PIa4APjRQKoyfXbjSSofn2S.jpg" group-title="Terror",We Bury the Dead
+https://peliculas.hyloft.online/We%20Bury%20the%20Dead%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/yNFYn8UqNVV8BX8X0WXcGLH9A9P.jpg" group-title="Comedia",Ladies First
+https://peliculas.hyloft.online/Ladies%20First%20%282026%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qo6NA46sSatPmPFbrddPam7JyRh.jpg" group-title="Romance",Herbie Goes to Monte Carlo
+https://peliculas.hyloft.online/Herbie%20Goes%20to%20Monte%20Carlo%20%281977%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3fGR6XeSLh9fdwG1OYE1hlcQ7YA.jpg" group-title="Comedia",Herbie Fully Loaded
+https://peliculas.hyloft.online/Herbie%20Fully%20Loaded%20%282005%29.mp4
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1547756318331.png" group-title="Tv en Vivo", America Teve
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-logo="https://posters.hyloft.online/1732153061463.png" group-title="Tv en Vivo", Caracol
