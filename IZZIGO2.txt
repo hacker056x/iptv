@@ -1,0 +1,55 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"820ee7b6e7e489c285a63a9a39249a31":"3bdc524168044491d6f2e51b270f4aa1"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/251/9281251-LOGO-m.png" group-title="izzigo",Las Estrellas
+https://live1-ott.izzigo.tv/12/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"158b196625b3fa3a6cbd45d081d28995":"b955044f81ed40faec97bee0d7a20aea"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/724/16975724-LOGO-m.png" group-title="izzigo",Azteca Uno
+https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-1-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"62cc24eaedef1ab322a4d52fd6bf29ad":"3f80b04b3e2bf3d8543956882da9dd00"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/247/9281247-LOGO-m.png" group-title="izzigo",La Estrella 102
+https://live1-ott.izzigo.tv/11/out/u/dash/CANAL-2-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ea39b9575f51b840a58bda829f20f38d":"9c200a2b120d45e60af506be1d7ad932"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/804/16905804-LOGO-m.png" group-title="izzigo",FORO +
+https://live1-ott.izzigo.tv/12/out/u/dash/FORO-TV-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"10637df6878e5ac0dfcc3d6b4ce8ab58":"a9c12f599c7a9b8afb837e08704f2dd2"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/276/17592276-LOGO-m.png" group-title="izzigo",Canal 5
+https://live1-ott.izzigo.tv/12/out/u/dash/CANAL-5-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c15a10921bed75a3ec5385e0ecdb6499":"4e44df62547a1544a4623418918658d0"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/878/7809878-LOGO-m.png" group-title="izzigo",AZTECA 7
+https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0bb910a4217a1af19b803e7f120796f9":"8d3d83fadfc769674b9c7102109fc466"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/876/8275876-LOGO-m.png" group-title="izzigo",CANAL 9
+https://live1-ott.izzigo.tv/11/out/u/dash/CANAL-9-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"96f177548046a9f56bbb39a900a82ddd":"96aa836072fd84c9a8e6219652330272"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/676/16482676-LOGO-m.png" group-title="izzigo",SKY ONE
+https://live1-ott.izzigo.tv/11/out/u/dash/SKY-ONE-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2722647f77b44824c432a3c4555830a2":"1734befb82f4b438bd84195f6c212e7b"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/577/8706577-LOGO-m.png" group-title="izzigo",TUDN
+https://live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"77e93f69c2d4c23e2cf8dc9e892f4ac7":"71a786d7774d6df4487494145db485a4"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/770/8574770-LOGO-m.png" group-title="izzigo",REAL MADRID
+https://live1-ott.izzigo.tv/14/out/u/dash/REAL-MADRID-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f40ab205a647666f39443306b022e114":"4f724ae0a0293d8c3579c243f2099f09"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/109/17224109-LOGO-m.png" group-title="izzigo",FOX SPORTS
+https://live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-HD/default.mpd
