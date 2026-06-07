@@ -98,3 +98,133 @@ https://live1-ott.izzigo.tv/11/out/u/dash/NFL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"e2752b79ddad271684418381ea320dba":"556d1e16c16e16faf7d7b2feee77c136"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/414/14859414-LOGO-m.png" group-title="izzigo",NBA
 https://live1-ott.izzigo.tv/12/out/u/dash/NBA-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"335511dfdf0d03bc06f1fdead5870b5a":"1a022fb33ad3de4d4579b04966551488"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/678/16482678-LOGO-m.png" group-title="izzigo",SKY SPORTS
+https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cb80e1e7d7598eaf98b1dbbe6dc14ee9":"103ae55c7948ca1d159d6743619d26c4"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/680/16482680-LOGO-m.png" group-title="izzigo",SKY SPORTS 16
+https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"99909032389c6ee41c3d2f3ec829f804":"41fbc575c8ef1cdac1dca990c9a0df9d"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/683/16482683-LOGO-m.png" group-title="izzigo",SKY SPORTS 21
+https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d8d5823d92a9ef9306a4cc4bd634b4b4":"df9fbdaa0ef9e905b75f4692f213af19"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/685/16482685-LOGO-m.png" group-title="izzigo",SKY SPORTS 24
+https://live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a3636a51227fa338cdddf5892d8a621c":"1444ee3c4d08bf39454b914f797968eb"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/838/16695838-LOGO-m.png" group-title="izzigo",SKY LIVE EVENT 1
+https://live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7239a58fb7388b222a834d549bf18d8f":"8b04a883e88dbdebc43673d998ea1cb2"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/839/16695839-LOGO-m.png" group-title="izzigo",SKY LIVE EVENT 2
+https://live1-ott.izzigo.tv/15/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a931b2e953695ffb0cfd38573e97ba33":"4ddd99cc4fb168d7f0e20be8a3287100"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/841/16695841-LOGO-m.png" group-title="izzigo",SKY LIVE EVENT 4
+https://live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6c89e84c52eae0428b7d2c8e887a48ec":"758a1484f920a0f1aa73e95d5f2be225"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/842/16695842-LOGO-m.png" group-title="izzigo",SKY LIVE EVENT 5
+https://live1-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"11505e498dc3571c818c350d36563dfb":"1dca1b23799ef06ce4f851a3968b73b8"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/230/18459230-LOGO-m.png" group-title="izzigo",AYM SPORTS TV
+https://live1-ott.izzigo.tv/14/out/u/dash/AYM-SPORTS-TV-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3377df9a3e3ce7735793541deb49657a":"df55b7df0f5d3fdb34ff56977aa7339d"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/255/18459255-LOGO-m.png" group-title="izzigo",BASKET AMERICAS
+https://live1-ott.izzigo.tv/11/out/u/dash/BASKET-AMERICAS-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5dbf14888bd99a7b01a3c9b0386c29ed":"1ee5f6042b292cfb366e5b2ec27ecf22"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/151/18190151-LOGO-m.png" group-title="izzigo",BEISBOL LATINO
+https://live1-ott.izzigo.tv/14/out/u/dash/BEISBOL-LATINO-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d82fc67b0ad0eac6a3f5cadc6e515796":"c9bb81474744fd82c379427312895636"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/152/18190152-LOGO-m.png" group-title="izzigo",COMBATV
+https://live1-ott.izzigo.tv/15/out/u/dash/COMBATV-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4d05c520c40e5e40ddbbda041d1e2811":"f7e248dc1d326f172c621895c90338a0"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/708/18043708-LOGO-m.png" group-title="izzigo",ITV DEPORTES
+https://live1-ott.izzigo.tv/11/out/u/dash/ITV-DEPORTES-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9213bfbf7c02e1beada75dbd389608a5":"a8a48bd40a1a62e6258a85e683a7fa78"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/276/18459276-LOGO-m.png" group-title="izzigo",LATIN AMERICAN SPORTS
+https://live1-ott.izzigo.tv/14/out/u/dash/LATIN-AMERICAN-SPORTS-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"12134b1ade9e2c55be144a1216e8e5fa":"10c49aabd94518ccd4b8c3f7fd2bacdb"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/164/18190164-LOGO-m.png" group-title="izzigo",MEXICO AL AIRE LIBRE
+https://live1-ott.izzigo.tv/12/out/u/dash/MEXICO-AL-AIRE-LIBRE-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6de0a66b528401c0378c559712f74643":"f9a240cea75f585add8405375ad1d787"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/382/8462382-LOGO-m.png" group-title="izzigo",ADRENALINA
+https://live1-ott.izzigo.tv/11/out/u/dash/ADRENALINA-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"545cc0a1dda57b0c6928a8696779395d":"3572a614fc168b78ea6053019cd9b605"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/895/15603895-LOGO-m.png" group-title="izzigo",ESPN 4
+https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-4-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f2966ad533e52a19c3ded1c7b9e40370":"2e0bb20e3edb3ce7fc0d616b3ff28748"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/859/16644859-LOGO-m.png" group-title="izzigo",HI SPORTS
+https://live1-ott.izzigo.tv/12/out/u/dash/HI-SPORTS-SD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9ccd5dd0c86a40ed719b83e1801bcd88":"6d5e62525837ba9b7e09cfb8716116ba"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/273/17592273-LOGO-m.png" group-title="izzigo",UNIVERSAL PREMIERE
+https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"44a9e6477651b3b47f3a2b727d562835":"1b87070d9fad5dee0a35ff014a2063a7"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/714/16975714-LOGO-m.png" group-title="izzigo",UNIVERSAL CINEMA
+https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"92b162b0b1d0dbb1e401f5845b4ce109":"83b7ae276784a7f78f4a0c1190974d5c"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/716/16975716-LOGO-m.png" group-title="izzigo",UNIVERSAL COMEDY
+https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3a908a5d38a9c496ced27faa6bf5ff8e":"85a5835a92bd7f87faf5ffbcb8814d33"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/718/16975718-LOGO-m.png" group-title="izzigo",UNIVERSAL CRIME
+https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02a02bce7a3c518386e0da4e5ec0188d":"071c7cc4c2f33e1e2d3fa3807d1bbbcc"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/722/16975722-LOGO-m.png" group-title="izzigo",UNIVERSAL REALITY
+https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f254df8628d9aa549e8280df8e844817":"2f4d4f09cee314824fa702e5a59a43cf"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/159/13824159-LOGO-m.png" group-title="izzigo",BBC NEWS
+https://live1-ott.izzigo.tv/15/out/u/dash/BBC-NEWS-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"78a32d175d51482212df6579689158dd":"22ad71362cd83d57e9f806506abd20d2"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/159/16975159-LOGO-m.png" group-title="izzigo",CNBC
+https://live1-ott.izzigo.tv/13/out/u/dash/CNBC-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d3b827c857110fd3de6161416854eabd":"3ed74ba1f566d0217dc1a59ba9d61918"}
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/979/256979-LOGO-m.png" group-title="izzigo",CNNI
+https://live1-ott.izzigo.tv/14/out/u/dash/CNNI-SD/default.mpd
