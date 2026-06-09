@@ -65,7 +65,7 @@ https://live1-ott.izzigo.tv/14/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 https://live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"98680c6843d383c5d3fb5535dfbf6361":"c72901bb89b97055a1c72d616ac4b494"}
+#KODIPROP:inputstream.adaptive.license_key={"726cf981a5075c58bf4e7ce9b0729388":"4e5969a3160cd0e5c0e0959efd3d4475"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/798/9703798-LOGO-m.png" group-title="izzigo",ESPN 2
 https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-2-HD/default.mpd
 
