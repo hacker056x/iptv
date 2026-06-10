@@ -95,12 +95,12 @@ https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-4-HD/default.mpd
 https://live1-ott.izzigo.tv/11/out/u/dash/GOLF-CHANNEL-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"104f44201b2b1b296a642d4a96d23ec5":"4ea675ba02bb72dec937ccf8b2375014"}
+#KODIPROP:inputstream.adaptive.license_key={"c6579787972fb048e5ee470d23c0680f":"a5d65b6c8c30b9738025fec19387b44a"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/774/13774774-LOGO-m.png" group-title="izzigo",NFL
 https://live1-ott.izzigo.tv/11/out/u/dash/NFL-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"654b59d0ff6e251cf6c27eaade3a9618":"df2782a1ff584e4cc0a67453b5852766"}
+#KODIPROP:inputstream.adaptive.license_key={"f9f9ac800cba4932e0283c22cbbbc271":"28dafffed58342dc336f90dae096a64d"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/414/14859414-LOGO-m.png" group-title="izzigo",NBA
 https://live1-ott.izzigo.tv/12/out/u/dash/NBA-HD/default.mpd
 
@@ -125,7 +125,7 @@ https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 https://live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"371e0e647bab1cc563ba155b5629f756":"927852eaf0ab692e7a28ca5bbf2fedf5"}
+#KODIPROP:inputstream.adaptive.license_key={"66633a85c2412b91038df526ca97755b":"c72ada19e93e59bc4eef3cdf319769df"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/838/16695838-LOGO-m.png" group-title="izzigo",SKY LIVE EVENT 1
 https://live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
 
