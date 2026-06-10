@@ -3,3 +3,69 @@
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="tv",5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HmN_TtDcna8dWfgV6lz6k1Q7B02t0LuU8IQhooBVRN1uq9YE12ZbS_j7ycGb-7G4LkZtypUA=s900-c-k-c0x00ffffff-no-rj" group-title="tv",Canal 7
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="tv",Ciudad
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hYqQ_-tzymQ7F8qbrLLRbdR_fHuS0nqRUr8Cm-oCok2noCRJGZVdc4brT1C2mdIVCdPGeOxTI2ZQEfZfSBdm5bw" group-title="tv",AD40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGdXUCpPtfeA3NE4wnortfzYw5HZvmC7nxxw&s" group-title="tv",Azteca IN
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/featuredImage.jpg" group-title="tv",Canal6
+https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXnIh_h97VB177myK44d4nv9AbbMoj4LKpQ&s" group-title="tv",Estrella NW
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fdo57PnjxxWE0yQb5DFROoXfjYaIkQSQLXyZL5E9_dURm_uvfmqKS7HW33uzMT82AKQFsi90tCQ=s900-c-k-c0x00ffffff-no-rj" group-title="tv",Estrella mx
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/thumbnail.jpg" group-title="tv",ITV deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/m2o/sites/2/2022/05/M2O-TV-e1654012974541-1200x630.png" group-title="tv",m2o
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",RTV
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",TVP Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",TVP Mazatlán
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",TVMAS
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Nuevo León
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Durango lobotv
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",TV4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Azteca Noreste
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b9d8440-9f8c-48af-b204-866c8629d07f&profilesFromStream=true
+#EXTINF:-1 tvg-logo="" group-title="tv",Telemax
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Teleformula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",SIPSE
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",El televisión
+https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Alsacias
+https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Canal 11
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Dios te ve
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",TOP sps
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",TOP Teg
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Telemas
+https://viewhn.com/telemas/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Valle Visión
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",TV COPAN
+https://s.emisoras.tv:8081/tvcopan/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Canal 8
+https://video.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",RCN-EXTRA
+https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Canal 14
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv",Limóntv
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
