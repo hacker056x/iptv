@@ -95,7 +95,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-4-HD/default.mpd
 https://live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a3258ba6ae061feb443b65088bb444d3":"9ffe6402ee348bc9ba6155ab9b037a7d"}
+#KODIPROP:inputstream.adaptive.license_key={"c1225bc42f6bec2b868eb67b3c8056ce":"fc79d57d10551fa9b78992edc1c8209e"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/066/19855066-LOGO-m.png" group-title="izzigo",VIX MUNDIAL 91
 https://live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd
 
