@@ -20,12 +20,12 @@ https://live1-ott.izzigo.tv/11/out/u/dash/CANAL-2-HD/default.mpd
 https://live1-ott.izzigo.tv/12/out/u/dash/FORO-TV-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"becf7feaa3db6bc3112ea0e3e79d8c9d":"19b588ac3495f9d96c0c3831e5332650"}
+#KODIPROP:inputstream.adaptive.license_key={"63eb783dcbe500a2454a74ac8593c5f9":"8f38c73b344fe80f9df989d43bf541a0"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/276/17592276-LOGO-m.png" group-title="izzigo",Canal 5
 https://live1-ott.izzigo.tv/12/out/u/dash/CANAL-5-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d61762becbbac7c8da3ea4e95989199e":"17ac02e9b05017de9f7ec3a43dd69447"}
+#KODIPROP:inputstream.adaptive.license_key={"475387dff4f5862bcda08229a31160d5":"ba38a2a30f619f13480380e6a77fa500"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/878/7809878-LOGO-m.png" group-title="izzigo",AZTECA 7
 https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd
 
@@ -85,7 +85,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-2-HD/default.mpd
 https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-3-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c9fd17d7c821933493aca4adc8f26d83":"cd6c8b4c104bbfae0d5b4c912740955f"}
+#KODIPROP:inputstream.adaptive.license_key={"19b8970c4af9aa7248392b0124e015d7":"684909bb3cd4645b78076073664139b0"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/895/15603895-LOGO-m.png" group-title="izzigo",ESPN 4
 https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-4-HD/default.mpd
 
@@ -130,7 +130,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/GOLF-CHANNEL-HD/default.mpd
 https://live1-ott.izzigo.tv/11/out/u/dash/NFL-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b57916ba0ea64c077499ce2a78fb0923":"8f05617df7f35ca7b4d0a84359bf12fb"}
+#KODIPROP:inputstream.adaptive.license_key={"2a0ecf473cdadcae561df1b8cab71140":"c8e39ef2340c95f47aef6e7171848f4a"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/414/14859414-LOGO-m.png" group-title="izzigo",NBA
 https://live1-ott.izzigo.tv/12/out/u/dash/NBA-HD/default.mpd
 
