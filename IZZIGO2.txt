@@ -555,7 +555,7 @@ https://live1-ott.izzigo.tv/13/out/u/dash/STINGRAY-RETRO-HD/default.mpd
 https://live1-ott.izzigo.tv/13/out/u/dash/LIFETIME-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"93b9fab7df9b7410f23cd7b8398e4a9e":"2b30c91f07028c04d02eaa18ebf0ede2"}
+#KODIPROP:inputstream.adaptive.license_key={"9f5a577a864df5fda8d65269ddab6f26":"48265e1b18ff79138e88075c2bae35d9"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/472/8610472-LOGO-m.png" group-title="izzigo",DISCOVERY HOME AND GARDEN
 https://live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 
