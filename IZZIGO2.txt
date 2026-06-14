@@ -793,3 +793,8 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0022820c0579ed28d1e8e5921ce1ce87":"4afffb990ddcf7763d6b6c7f0a99847a"}
+#EXTINF:-1 group-title="peacok",peacok hack
+https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021107-722965-49111579ad5)/master_2hr.mpd?c3.ri=6a2e15ee_Q1ZYMDc_0_RkFTVExZ_575342d6d893%3A0&aws.sessionId=03ccaa4b-04c1-4dce-8ab2-d475a50e277b
