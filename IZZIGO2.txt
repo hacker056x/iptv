@@ -808,3 +808,16 @@ https://akam.stream.peacocktv.com/pck-lin/us-east-1/v1/dash/6f3f45fea6332a476679
 #KODIPROP:inputstream.adaptive.license_key={"004570d712d5141808ae40a1426cc028":"2fb17ffe1065d883af708ae8949fb926"}
 #EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7536064712744877117_darknow/AGG_SOURCE/104/72?proposition=NBCUOTT&territory=US" group-title="peacock",NOTICIERO TELEMUNDO
 https://akam.stream.peacocktv.com/pck-lin/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic-cfd/Content/CMAF_OL2-CTR-4s-v2/Live/channel(nota)/master_2hr.mpd?c3.ri=6a2e22a8_Q1ZYMDc_0_QUtBTUFJ_e92aa40eec13%3A0&aws.sessionId=2319b8e5-af98-49bf-ba40-012d46a8d42b
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0045d8b739fe605409934bb0776472d7":"293a0cd88be7052e9060ae2edff4973e"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_8637455734117123117_darknow/AGG_SOURCE/104/72?proposition=NBCUOTT&territory=US" group-title="peacock",DATALINE EN ESPAÑOL
+https://fsly.stream.peacocktv.com/pck-lin/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic-cfd/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc125fnbp0)/master_2hr.mpd?c3.ri=6a2e2450_Q1ZYMDc_0_RkFTVExZ_378f8fcd330a%3A0&aws.sessionId=e17a3392-a7dd-4e1e-a98b-b84522089608
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"00450e261a13a414b4aa0a70bbf4b3a8":"9a6924852d039504350c4b31d1662ef5"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6550706683944612117_darknow/AGG_SOURCE/104/72?proposition=NBCUOTT&territory=US" group-title="peacock",AL DIAS
+https://cfrt.stream.peacocktv.com/pck-lin/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic-cfd/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc127fxuqc)/master_2hr.mpd?c3.ri=6a2e2648_Q1ZYMDc_0_Q0xPVURGUk9OVA_79f4c872037a%3A0&aws.sessionId=96f0d04c-9cd0-4fc5-a260-3176efe900d2
+
+
+
