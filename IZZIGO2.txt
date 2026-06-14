@@ -40,7 +40,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/CANAL-9-HD/default.mpd
 https://live1-ott.izzigo.tv/11/out/u/dash/SKY-ONE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bc019b258c0cd95f041d13b25b4c9c42":"e7ff25dc212bb345eea8702b46a8617a"}
+#KODIPROP:inputstream.adaptive.license_key={"7e5c15ce545ad0beae459c0ce423f573":"2e6096effa5a043aeed3afdcadcd542c"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/577/8706577-LOGO-m.png" group-title="izzigo",TUDN
 https://live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
 
@@ -50,7 +50,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
 https://live1-ott.izzigo.tv/14/out/u/dash/REAL-MADRID-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bf010dfeaa3c384a74e3e3aa71d568bd":"579501c3a0c7590a31ec7a1c47f48b95"}
+#KODIPROP:inputstream.adaptive.license_key={"cde180f2f3e36221fb2a6d089d1aa254":"9772141a77fc61247913deaef4a00e48"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/109/17224109-LOGO-m.png" group-title="izzigo",FOX SPORTS
 https://live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-HD/default.mpd
 
@@ -60,7 +60,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-HD/default.mpd
 https://live1-ott.izzigo.tv/14/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d1be9370b169544946b4e23bae6bf03e":"8752b9cb7fca73b010f512b2043b3211"}
+#KODIPROP:inputstream.adaptive.license_key={"f029d09487d3325900cfbdcbd9bab95c":"16b99fe9e0f4f0ef535e8716e58d5793"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/117/17224117-LOGO-m.png" group-title="izzigo",FOX SPORTS 3
 https://live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 
@@ -70,7 +70,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 https://live1-ott.izzigo.tv/14/out/u/dash/PX-SPORTS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"135dbf8c85f384ef246718769ea566d7":"130124ec95d13fe7b7457181dc92d0f0"}
+#KODIPROP:inputstream.adaptive.license_key={"316c9e3f4b608371f1834c408f296da7":"4e010f5b6fc0b14468b41d2712bf344e"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/797/9703797-LOGO-m.png" group-title="izzigo",ESPN
 https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-HD/default.mpd
 
