@@ -804,4 +804,7 @@ https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f
 #EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_5923023667697108117_darknow/AGG_SOURCE/104/72?proposition=NBCUOTT&territory=US" group-title="peacock",TELEMUNDO DESPORTE AHORA
 https://akam.stream.peacocktv.com/pck-lin/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic-cfd/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master_2hr.mpd?c3.ri=6a2e1fd8_Q1ZYMDc_0_QUtBTUFJ_eeac86e7520e%3A0&aws.sessionId=5b35cbbb-bebc-4217-adaa-09b28b7a87c7
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"004570d712d5141808ae40a1426cc028":"2fb17ffe1065d883af708ae8949fb926"}
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7536064712744877117_darknow/AGG_SOURCE/104/72?proposition=NBCUOTT&territory=US" group-title="peacock",NOTICIERO TELEMUNDO
+https://akam.stream.peacocktv.com/pck-lin/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic-cfd/Content/CMAF_OL2-CTR-4s-v2/Live/channel(nota)/master_2hr.mpd?c3.ri=6a2e22a8_Q1ZYMDc_0_QUtBTUFJ_e92aa40eec13%3A0&aws.sessionId=2319b8e5-af98-49bf-ba40-012d46a8d42b
