@@ -95,27 +95,27 @@ https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-4-HD/default.mpd
 https://live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0732c49308526dffd890a750d7dab99f":"4bc952e60df995b571bf86a471a85fb0"}
+#KODIPROP:inputstream.adaptive.license_key={"7cb742ff4357ff4f015d18e102ce47aa":"7dd79c664a00f72be493a1e0b909f0d7"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/066/19855066-LOGO-m.png" group-title="izzigo",VIX MUNDIAL 91
 https://live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"66df81b4be15558f4b57c506a541e023":"587de817e5df76febc8803e01b71960e"}
+#KODIPROP:inputstream.adaptive.license_key={"688033454075ac0bd33fd837e83cb9e1":"25c1b5acfc94e349389b709a8e12fe3b"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/066/19855066-LOGO-m.png" group-title="izzigo",VIX MUNDIAL 92
 https://live1-ott.izzigo.tv/12/out/u/dash/VIX-MUNDIAL-92-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"beb4731b24ac993915bf5ce6e46c65d1":"c074ba113d0ae9b29a01cc4eb8ef24ad"}
+#KODIPROP:inputstream.adaptive.license_key={"832492e6aade9a10caccc60f8e5876c0":"4bab3cc2c3cbe0e78fdc8001f0ec2b96"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/066/19855066-LOGO-m.png" group-title="izzigo",VIX MUNDIAL 93
 https://live1-ott.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-93-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"cc7218b37f5b6cb54b9036c1bf12deb7":"86ce502a0bee50aa0444043fef01889f"}
+#KODIPROP:inputstream.adaptive.license_key={"6851fd3492ed05a467e90e9f86b6076f":"91154ade2739f23088f8c1cdb2037974"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/066/19855066-LOGO-m.png" group-title="izzigo",VIX MUNDIAL 94
 https://live1-ott.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-94-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f6e4a7c167a3e6f9c426bebc9df87a6d":"3cc4c08585431577479e6806c24e9e63"}
+#KODIPROP:inputstream.adaptive.license_key={"3dfce37d308230e2620c5cdd46bfd1cf":"3010067e83ecdbe3a1aa405f8c3b1880"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/066/19855066-LOGO-m.png" group-title="izzigo",VIX MUNDIAL 95
 https://live1-ott.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-95-HD/default.mpd
 
@@ -555,7 +555,7 @@ https://live1-ott.izzigo.tv/13/out/u/dash/STINGRAY-RETRO-HD/default.mpd
 https://live1-ott.izzigo.tv/13/out/u/dash/LIFETIME-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"61d6e615d0a6501747dff8f4f69f0011":"3140f3121bc48a31d64cc06e51c29b36"}
+#KODIPROP:inputstream.adaptive.license_key={"11118d563acd87eb324b4c583437c30f":"c4b629ddb9c991accd8fd6b3ac5f0b26"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/472/8610472-LOGO-m.png" group-title="izzigo",DISCOVERY HOME AND GARDEN
 https://live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 
@@ -610,7 +610,7 @@ https://live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd
 https://live1-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3cafee18100b9b4fcb6eaa98695b7485":"765ca4f33098eb6007566b22b6332c58"}
+#KODIPROP:inputstream.adaptive.license_key={"381c9082e70a9b410d57eb1989b6454d":"b649db1e46bc4aa3847d7d47c5fdc32a"}
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/066/18682066-LOGO-m.png" group-title="izzigo",TNT
 https://live1-ott.izzigo.tv/12/out/u/dash/TNT-HD/default.mpd
 
