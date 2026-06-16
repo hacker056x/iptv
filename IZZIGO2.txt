@@ -20,9 +20,9 @@ https://live1-ott.izzigo.tv/11/out/u/dash/CANAL-2-HD/default.mpd
 https://live1-ott.izzigo.tv/12/out/u/dash/FORO-TV-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"403cb3a4c45cd30c51bf79f06c7e112e":"3aa732df75d7b5aab8bd2b9b55369513"}
+#KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/repository/276/17592276-LOGO-m.png" group-title="izzigo",Canal 5
-https://live1-ott.izzigo.tv/12/out/u/dash/CANAL-5-HD/default.mpd
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5a4a72afb10d03bf31c151bfab17a97d":"23923cec28fff56145e871ae78227db6"}
